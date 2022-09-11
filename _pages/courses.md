@@ -89,6 +89,37 @@ Below is my quarter by quarter performance during my undergraduate carrer at UCS
 
 ### Winter 2022:
 
+* <details>
+    <summary>CSE 151B: Deep Learning</summary>
+    Grade received: [A+] <br>
+    Description: This course covers the fundamentals of neural networks. We introduce linear regression, logistic regression, perceptrons, multilayer networks and back-propagation, convolutional neural networks, recurrent networks, and deep networks trained by reinforcement learning.
+    </details>
+
+* <details>
+    <summary>DSC 40B: Theoretical Foundations of Data Science II</summary>
+    Grade received: [A+] <br>
+    Description: The sequence DSC 40A-B introduces the theoretical foundations of data science and covers the following topics: mathematical language for expressing data analysis problems and solution strategies, probabilistic reasoning, mathematical modeling of data, and algorithmic problem solving. DSC 40B, the second course in the sequence, introduces fundamental topics in combinatorics, graph theory, probability, and continuous and discrete algorithms with applications to data analysis.
+    </details>
+
+* <details>
+    <summary>ECON 110A: Long Run Macroeconomics</summary>
+    Grade received: [A+] <br>
+    Description: Analysis of the determination of long run growth and models of the determination of output, interest rates, and the price level. Analysis of inflation, unemployment, and monetary and fiscal policy.
+    </details>
+
+* <details>
+    <summary>ECON 120C: Long Run Macroeconomics</summary>
+    Grade received: [A-] <br>
+    Description: Advanced econometric methods: estimation of linear regression models with endogeneity, economic methods designed for panel data sets, estimation of discrete choice models, time series analysis, and estimation in the presence of autocorrelated and heteroskedastic errors.
+    </details>
+
+* <details>
+    <summary>LTEA 138: Japanese Films</summary>
+    Grade received: [A+] <br>
+    Description: An introduction to Japanese films. Attention given to representative Japanese directors (e.g., Ozu), form (e.g., anime), genre (e.g., feminist revenge horror), or historical context in which films are produced.
+    </details>
+
+
 ### Fall 2021
 
 | Course Number      | Course Name | Grade     |
