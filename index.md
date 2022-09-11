@@ -18,7 +18,7 @@ Outside of academics, my hobbies include working out, playing football🏈, play
 #### To friends at UCSD: 
 Attatched is my [quarter-by-quarter](https://docs.google.com/spreadsheets/d/1Ek3O-82N03V74gCj7gNwxCFUvHRsiD8z1JVo8XqOUFo/edit?usp=sharing) plan (subject to change). Feel free to chat with me (emial, zoom, or even at Geisel Library) if you want to take classes or hangout together!
 
-As I have been serving as an Instructional Assistant at UCSD since the winter quarter of my freshman year, I have provided a many suggestions and tips to my friends on how to apply these positions in differnet department. If you are intrested in becoming Math TA's, DSC Tutors, or Econ UIA's, feel free to reach out as well.
+As I have been serving as an Instructional Assistant at UCSD since the winter quarter of my freshman year, I have provided many suggestions and tips to my friends on how to apply these positions in differnet departments. If you are intrested in becoming Math TA's, DSC Tutors, or Econ UIA's, feel free to reach out as well.
 
 
 Below is my schedule attached:

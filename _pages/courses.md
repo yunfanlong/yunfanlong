@@ -57,6 +57,36 @@ Below is my quarter by quarter performance during my undergraduate carrer at UCS
 
 ### Spring 2022:
 
+* <details>
+    <summary>DSC 80: Practice of Data Science</summary>
+    Grade received: [A+] <br>
+    Description: The marriage of data, computation, and inferential thinking, or “data science,” is redefining how people and organizations solve challenging problems and understand the world. This course bridges lower- and upper-division data science courses as well as methods courses in other fields. Students master the data science life-cycle and learn many of the fundamental principles and techniques of data science spanning algorithms, statistics, machine learning, visualization, and data systems.
+    </details>
+
+* <details>
+    <summary>ECON 110B: Short Run Macroeconomics</summary>
+    Grade received: [A] <br>
+    Description: Analysis of the determination of consumption spending at the aggregate level; extension of the basic macro model to include exchange rates and international trade; the aggregate money supply, and the business cycle.
+    </details>
+
+* <details>
+    <summary>ECON 120CH: Honors Econometrics C</summary>
+    Grade received: [A+] <br>
+    Description: Honors sequence expanding on the material taught in ECON 120C.
+    </details>
+
+* <details>
+    <summary>MATH 189: Exploratory Data Analysis and Inference</summary>
+    Grade received: [A+] <br>
+    Description: An introduction to various quantitative methods and statistical techniques for analyzing data—in particular big data. Quick review of probability continuing to topics of how to process, analyze, and visualize data using statistical language R. Further topics include basic inference, sampling, hypothesis testing, bootstrap methods, and regression and diagnostics. Offers conceptual explanation of techniques, along with opportunities to examine, implement, and practice them in real and simulated data.
+    </details>
+
+* <details>
+    <summary>MGT 12: Personal Financial Management</summary>
+    Grade received: [A] <br>
+    Description: Course examines management of personal financial assets: savings and checking accounts, fixed assets, and credit cards. Budgeting, loan applications, payment terms, and statement reconciliation will be covered as will credit ratings, cash management, compound interest, bank operations, and contract obligations.
+    </details>
+
 ### Winter 2022:
 
 ### Fall 2021
