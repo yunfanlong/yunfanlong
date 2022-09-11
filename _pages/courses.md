@@ -17,10 +17,33 @@ classes: wide
 {:toc}
 
 ## UCSD Summary:
- Overall GPA: 3.992/4.0📈; Major GPA(DS25): 4.0/4.0 📈; Major GPA(EN28): 3.974/4.0 📈
+
+<!-- <div align="center">
+<table style="width:100%">
+  <tr>
+    <th>Overall GPA📈</th>
+    <th>Major GPA(Data Science)📈</th>
+    <th>Major GPA(Math-Econ)📈</th>
+  </tr>
+  <tr>
+    <td>3.992/4.0</td>
+    <td>4.0/4.0</td>
+    <td>3.978/4.0</td>
+  </tr>
+</table>
+</div> -->
 
 
-Below is my quarter by quarter performance during my undergraduate carrer at UCSD. Each course has a dropdown menu that provides course descriptions from the catalog.
+
+| Overall GPA📈     | Major GPA(Data Science)📈 | Major GPA(Math-Econ)📈     |
+| :----:        |    :----:   |          :----: |
+|3.992/4.0| 4.0/4.0 | 3.978/4.0 |
+
+
+
+Below is my performance by quarters at UCSD.
+
+Click on each course for course descriptions from the catalog.
 
 ### Summer 2022:
 
@@ -122,36 +145,97 @@ Below is my quarter by quarter performance during my undergraduate carrer at UCS
 
 ### Fall 2021
 
-| Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :---- |
-| [COGS 108](https://github.com/COGS108)      | Data Science in Practice      | A+   |
-| [DSC 30](https://sites.google.com/ucsd.edu/dsc30fall21/)   | Data Structures and Algorithms for Data Science        | A     |
-|[DSC 40A](https://dsc-courses.github.io/dsc40a-2021-fa/)|Theoretical Foundations of Data Science I|A+|
-|[DSC 95](https://sites.google.com/ucsd.edu/dsc-95-fall-2021)|Tutor Apprenticeship in Data Science|P|
-|[ECON 120B](https://catalog.ucsd.edu/courses/ECON.html)|Econometrics B|A+|
-|<img width=200/>|<img width=800/>|<img width=200/>|
+* <details>
+    <summary>COGS 108: Data Science in Practice</summary>
+    Grade received: [A+] <br>
+    Description: Data science is multidisciplinary, covering computer science, statistics, cognitive science and psychology, data visualization, artificial intelligence and machine learning, among others. This course teaches critical skills needed to pursue a data science career using hands-on programming and experimental challenges.
+    </details>
+
+* <details>
+    <summary>DSC 30: Data Structures and Algorithms for Data Science</summary>
+    Grade received: [A] <br>
+    Description: Builds on topics covered in DSC 20 and provides practical experience in composing larger computational systems through several significant programming projects using Java. Students will study advanced programming techniques including encapsulation, abstract data types, interfaces, algorithms and complexity, and data structures such as stacks, queues, priority queues, heaps, linked lists, binary trees, binary search trees, and hash tables.
+    </details>
+
+* <details>
+    <summary>DSC 40A: Theoretical Foundations of Data Science I</summary>
+    Grade received: [A+] <br>
+    Description: This course, the first of a two-course sequence (DSC 40A-B), will introduce the theoretical foundations of data science. Students will become familiar with mathematical language for expressing data analysis problems and solution strategies, and will receive training in probabilistic reasoning, mathematical modeling of data, and algorithmic problem solving. DSC 40A will introduce fundamental topics in machine learning, statistics, and linear algebra with applications to data analysis. DSC 40A-B connect to DSC 10, 20, and 30 by providing the theoretical foundation for the methods that underlie data science.
+    </details>
+
+* <details>
+    <summary>DSC 95: Tutor Apprenticeship in Data Science</summary>
+    Grade received: [Pass] <br>
+    Description: Students will receive training in skills and techniques necessary to be effective tutors for data science courses. Students will also gain practical experience in tutoring students on data science topics.
+    </details>
+
+* <details>
+    <summary>ECON 120B: Econometrics B</summary>
+    Grade received: [A+] <br>
+    Description: Basic econometric methods, including the linear regression, hypothesis testing, quantifying uncertainty using confidence intervals, and distinguishing correlation from causality.
+    </details>
+
 
 ### Summer 2021
 
-| Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :---- |
-| [ECON 100A](https://catalog.ucsd.edu/courses/ECON.html)      | Microeconomics A     | A   |
-| [MATH 142A](https://catalog.ucsd.edu/courses/MATH.html)   | 	Introduction to Analysis I       | A+     |
-|[MATH 142B](https://catalog.ucsd.edu/courses/MATH.html)|Introduction to Analysis II|A+|
-|[PHIL 28](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society II|P|
-|<img width=200/>|<img width=800/>|<img width=200/>|
+* <details>
+    <summary>ECON 100A: Microeconomics A</summary>
+    Grade received: [A] <br>
+    Description: Economic analysis of household determination of the demand for goods and services, consumption/saving decisions, and the supply of labor.
+    </details>
+
+* <details>
+    <summary>MATH 142A: Introduction to Analysis I</summary>
+    Grade received: [A+] <br>
+    Description: First course in an introductory two-quarter sequence on analysis. Topics include the real number system, numerical sequences and series, infinite limits, limits of functions, continuity, differentiation.
+    </details>
+
+* <details>
+    <summary>MATH 142B: Introduction to Analysis II</summary>
+    Grade received: [A+] <br>
+    Description: Second course in an introductory two-quarter sequence on analysis. Topics include the Riemann integral, sequences and series of functions, uniform convergence, Taylor series, introduction to analysis in several variables.
+    </details>
+
+* <details>
+    <summary>PHIL 28: Ethics And Society II</summary>
+    Grade received: [Pass] <br>
+    Description: An examination of a single set of major contemporary social, political, or economic issues (e.g., environmental ethics, international ethics) in light of ethical and moral principles and values.
+    </details>
+
+
 
 ### Spring 2021
 
-| Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :---- |
-| [DSC 20](https://sites.google.com/ucsd.edu/dsc20spring2021/)      | Programming and Basic Data Structures for Data Science    | A+   |
-| [JAPN 10C](https://catalog.ucsd.edu/courses/JAPN.html)   | 	First-Year Japanese III      | A     |
-|[LIGN 8](https://catalog.ucsd.edu/courses/LING.html)| Languages and Cultures in America|A+|
-|[MATH 102](http://www.math.ucsd.edu/~jeggers/Archive/2021Spring/Math102/index.html)|Applied Linear Algebra|A+|
-|[MUS 95G](https://catalog.ucsd.edu/courses/MUS.html)|Gospel Choir|P|
-|[PHIL 27](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society I|P|
-|<img width=200/>|<img width=800/>|<img width=200/>|
+* <details>
+    <summary>DSC 20: Programming and Basic Data Structures for Data Science</summary>
+    Grade received: [A+] <br>
+    Description: Provides an understanding of the structures that underlie the programs, algorithms, and languages used in data science by expanding the repertoire of computational concepts introduced in DSC 10 and exposing students to techniques of abstraction. Course will be taught in Python and will cover topics including recursion, higher-order functions, function composition, object-oriented programming, interpreters, classes, and simple data structures such as arrays, lists, and linked lists.
+    </details>
+
+* <details>
+    <summary>JAPN 10C: First-Year Japanese</summary>
+    Grade received: [A] <br>
+    Description: This course is an introduction to the Japanese language. Students will learn basic skills of listening, speaking, reading, and writing over forty-eight additional characters. Students will also acquire fundamental knowledge of Japanese grammar and learn about Japanese people and culture.
+    </details>
+
+* <details>
+    <summary>LIGN 8: Languages and Cultures in America</summary>
+    Grade received: [A+] <br>
+    Description: Language in American culture and society. Standard and nonstandard English in school, media, pop culture, politics; bilingualism and education; cultural perception of language issues over time; languages and cultures in the “melting pot,” including Native American, Hispanic, African American, Deaf.
+    </details>
+
+* <details>
+    <summary><a href="https://mathweb.ucsd.edu/~jeggers/Archive/2021Spring/Math102/index.html">MATH 102</a>: Applied Linear Algebra</summary>
+    Grade received: [A+] <br>
+    Description: Second course in linear algebra from a computational yet geometric point of view. Elementary Hermitian matrices, Schur’s theorem, normal matrices, and quadratic forms. Moore-Penrose generalized inverse and least square problems. Vector and matrix norms. Characteristic and singular values. Canonical forms. Determinants and multilinear algebra.
+    </details>
+
+* <details>
+    <summary>PHIL 27: Ethics And Society I</summary>
+    Grade received: [Pass] <br>
+    Description: An examination of ethical principles (e.g., utilitarianism, individual rights, etc.) and their social and political applications to contemporary issues: abortion, environmental protection, and affirmative action. Ethical principles will also be applied to moral dilemmas in government, law, business, and the professions.
+    </details>
+
 
 ### Winter 2021
 
