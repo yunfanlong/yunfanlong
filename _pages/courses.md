@@ -45,6 +45,15 @@ Below is my performance by quarters at UCSD.
 
 Click on each course for course descriptions from the catalog.
 
+### Fall 2022:
+
+<!-- * <details>
+    <summary>COGS 118A: Supervised Machine Learning Algorithms</summary>
+    Grade received: [A+] <br>
+    Description: This course introduces the mathematical formulations and algorithmic implementations of the core supervised machine learning methods. Topics in 118A include regression, nearest neighborhood, decision tree, support vector machine, and ensemble classifiers.
+    </details> -->
+
+
 ### Summer 2022:
 
 * <details>
@@ -165,7 +174,7 @@ Click on each course for course descriptions from the catalog.
 
 * <details>
     <summary>DSC 95: Tutor Apprenticeship in Data Science</summary>
-    Grade received: [Pass] <br>
+    Grade received: [Pass](P/NP only) <br>
     Description: Students will receive training in skills and techniques necessary to be effective tutors for data science courses. Students will also gain practical experience in tutoring students on data science topics.
     </details>
 
@@ -272,29 +281,68 @@ Click on each course for course descriptions from the catalog.
 
 * <details>
     <summary>WCWP 10B: The Writing Course B</summary>
-    Grade received: [P] <br>
+    Grade received: [Pass] <br>
     Description: WCWP 10B is the second course in the writing sequence required for incoming first-year students. Picking up where WCWP 10A left off, WCWP 10B focuses on helping students develop critical thinking skills as they learn to analyze the dominant worldviews that shape how we think, communicate, and see the world.
     </details>
 
 
 ### Fall 2020
 
-| Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :---- |
-| [COGS 9](https://catalog.ucsd.edu/courses/COGS.html)      | 	Introduction to Data Science     | A   |
-| [ECON 3](https://catalog.ucsd.edu/courses/ECON.html)   | 	Principles of Macroeconomics       | A     |
-|[JAPN 10A](https://catalog.ucsd.edu/courses/JAPN.html)|First-Year Japanese I|A+|
-|[MATH 20D](https://www.math.ucsd.edu/~yuz018/2020fall/20da00.html)|Introduction to Differential Equations|A+|
-|[MUS 95G](https://catalog.ucsd.edu/courses/MUS.html)|Gospel Choir|P|
-|[WCWP 10A](https://warren.ucsd.edu/warren-writing/wcwp-10a.html)|The Writing Course A|A|
-|<img width=200/>|<img width=800/>|<img width=200/>|
+* <details>
+    <summary>COGS 9: Introduction to Data Science</summary>
+    Grade received: [A] <br>
+    Description: Concepts of data and its role in science will be introduced, as well as the ideas behind data-mining, text-mining, machine learning, and graph theory, and how scientists and companies are leveraging those methods to uncover new insights into human cognition.
+    </details>
+* <details>
+    <summary>ECON 3: Principles of Macroeconomics</summary>
+    Grade received: [A] <br>
+    Description: Introductory macroeconomics: unemployment, inflation, business cycles, monetary and fiscal policy.
+    </details>
+* <details>
+    <summary>JAPN 10A: First-Year Japanese I</summary>
+    Grade received: [A+] <br>
+    Description: This course is an introduction to the Japanese language. Students will learn basic skills of listening, speaking, reading, and writing over seventy-five characters. Students will also acquire fundamental knowledge of Japanese grammar and learn about Japanese people and culture.
+    </details>
+* <details>
+    <summary>MATH 20D: Introduction to Differential Equations</summary>
+    Grade received: [A+] <br>
+    Description: Ordinary differential equations: exact, separable, and linear; constant coefficients, undetermined coefficients, variations of parameters. Systems. Series solutions. Laplace transforms. Techniques for engineering sciences. Computing symbolic and graphical solutions using MATLAB.
+    </details>
+* <details>
+    <summary>MUS 95G: Gospel Choir</summary>
+    Grade received: [Pass](P/NP only) <br>
+    Description: Performance in an ensemble appropriate to student abilities and interests. Section G is Gospel Choir.
+    </details>
+* <details>
+    <summary>WCWP 10A: The Writing Course A</summary>
+    Grade received: [A] <br>
+    Description: A seminar-style course in reading and writing required of all Warren College students. The course emphasizes argumentation and critical writing based on sources.
+    </details>
+
 
 ### Summer 2020
 
-| Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :---- |
-| [ECON 1](https://catalog.ucsd.edu/courses/ECON.html)      | Principles of Microeconomics     | A+   |
-| [MATH 18](https://sites.google.com/ucsd.edu/18s120/)   | 	Linear Algebra       | A    |
-|[MATH 20C](https://catalog.ucsd.edu/courses/MATH.html)|Calculus and Analytic Geometry for Science and Engineering|A+|
-|[PSYC 4](https://catalog.ucsd.edu/courses/PSYC.html)|General Psychology: Behavioral|A+|
-|<img width=200/>|<img width=800/>|<img width=200/>|
+* <details>
+    <summary>ECON 1: Principles of Microeconomics </summary>
+    Grade received: [A+] <br>
+    Description: Introduction to the study of the economic system. Course will introduce the standard economic models used to examine how individuals and firms make decisions in perfectly competitive markets, and how these decisions affect supply and demand in output markets.
+    </details>
+
+* <details>
+    <summary>MATH 18: Linear Algebra </summary>
+    Grade received: [A] <br>
+    Description: Matrix algebra, Gaussian elimination, determinants. Linear and affine subspaces, bases of Euclidean spaces. Eigenvalues and eigenvectors, quadratic forms, orthogonal matrices, diagonalization of symmetric matrices. Applications. Computing symbolic and graphical solutions using MATLAB.
+    </details>
+
+* <details>
+    <summary>MATH 20C: Calculus and Analytic Geometry for Science and Engineering </summary>
+    Grade received: [A+] <br>
+    Description: Vector geometry, vector functions and their derivatives. Partial differentiation. Maxima and minima. Double integration.
+    </details>
+
+* <details>
+    <summary>PSYC 4: General Psychology: Behavioral </summary>
+    Grade received: [A+] <br>
+    Description: This course provides an introduction to behavioral psychology. Topics include classical conditioning, operant conditioning, animal learning, and motivation and behavior modification.
+    </details>
+
