@@ -239,15 +239,43 @@ Click on each course for course descriptions from the catalog.
 
 ### Winter 2021
 
-| Course Number      | Course Name | Grade     |
-| :----:        |    :----:   |          :---- |
-| [COGS 13](https://catalog.ucsd.edu/courses/COGS.html)      | 	Field Methods: Cognition in Wild     | P   |
-| [DSC 10](https://dsc10.com/)   | 	Principles of Data Science       | A+     |
-|[JAPN 10B](https://catalog.ucsd.edu/courses/JAPN.html)|First-Year Japanese II|A|
-|[MATH 109](https://catalog.ucsd.edu/courses/MATH.html)|Mathematical Reasoning|A+|
-|[MATH 183](https://catalog.ucsd.edu/courses/MATH.html)|Statistical Methods|A+|
-|[WCWP 10B](https://warren.ucsd.edu/warren-writing/wcwp-10b.html)|The Writing Course B|P|
-|<img width=200/>|<img width=800/>|<img width=200/>|
+* <details>
+    <summary>COGS 13: Field Methods: Cognition in Wild</summary>
+    Grade received: [Pass] <br>
+    Description: This course introduces students to multiple methods to investigate cognition and behavior in natural settings. Students will learn about ethnography, videography (video data collection, coding, and analysis), surveys design and conducting interviews, and how to move from observations to modeling.
+    </details>
+
+* <details>
+    <summary>DSC 10: Principles of Data Science</summary>
+    Grade received: [A+] <br>
+    Description: This introductory course develops computational thinking and tools necessary to answer questions that arise from large-scale datasets. This course emphasizes an end-to-end approach to data science, introducing programming techniques in Python that cover data processing, modeling, and analysis.
+    </details>
+
+
+* <details>
+    <summary>JAPN 10B: First-Year Japanese II</summary>
+    Grade received: [A] <br>
+    Description: This course is an introduction to the Japanese language. Students will learn basic skills of listening, speaking, reading, and writing over seventy-two additional characters. Students will also acquire fundamental knowledge of Japanese grammar and learn about Japanese people and culture. 
+    </details>
+
+* <details>
+    <summary>MATH 109: Mathematical Reasoning</summary>
+    Grade received: [A+] <br>
+    Description: This course uses a variety of topics in mathematics to introduce the students to rigorous mathematical proof, emphasizing quantifiers, induction, negation, proof by contradiction, naive set theory, equivalence relations and epsilon-delta proofs.
+    </details>
+
+* <details>
+    <summary>MATH 183: Statistical Methods</summary>
+    Grade received: [A+] <br>
+    Description: Introduction to probability. Discrete and continuous random variables–binomial, Poisson and Gaussian distributions. Central limit theorem. Data analysis and inferential statistics: graphical techniques, confidence intervals, hypothesis tests, curve fitting.
+    </details>
+
+* <details>
+    <summary>WCWP 10B: The Writing Course B</summary>
+    Grade received: [P] <br>
+    Description: WCWP 10B is the second course in the writing sequence required for incoming first-year students. Picking up where WCWP 10A left off, WCWP 10B focuses on helping students develop critical thinking skills as they learn to analyze the dominant worldviews that shape how we think, communicate, and see the world.
+    </details>
+
 
 ### Fall 2020
 
