@@ -7,55 +7,41 @@ author_profile: true
 classes: wide
 ---
 
-## Skills
+<!-- ## Skills
 
-* Technical Skills: Python(Pandas, Numpy, scikit-learn, seaborn, matplotlib, SciPy, statsmodels, etc), Java, R(ggplot2), Excel HTML, PyTorch, SQL, Statistical Analysis, Data Visualizations(Tableau), Machine Learning, Deep Learning, Natural Language Processing.
+* **Programming**: Python (Pandas, Numpy, sklearn, seaborn, matplotlib, plotly, SciPy, statsmodels, nltk, bs4), PyTorch, Java, R (ggplot2), SQL, Tableau, HTML, JavaScript, Excel, etc.
+* **Technical Skills**: AWS, Databricks, BigQuery, Statistical Analysis (A/B test, hypothesis test, permutation test, etc.), Data Mining, Machine Learning (KNN, Logistic Regression, Softmax Regression, SVM, Naive Bayes, K-means, EM, Hidden Markov, etc.), Deep Learning (Backpropagation, CNN, RNN, GANs, etc.), etc.
+* **Soft Skills**: Attention to detail, public speaking, academic writing, effective communication, problem-solving, multi-tasking, and DEI awareness.
 
-* Soft Skills: Attention to detail, public speaking, academic writing, effective communication, problem-solving, and DEI.
+## Experience -->
 
-## Experience
+* **Student Resercher**, *Intel*, Jan 2023 - Present
+
+  * Affiliated with Intel & HDSI DCA Research Project Collaboration. Details could not be exposed at the moment.
+  * Member of the Web-Based Computing/UX Data Study Project Team, operating under the guidance of Professor Rayan Saab and Professor Jingbo Shang.
+
 
 * **Data Scientist Intern**, *Qualcomm Institute*, Aug 2022 - Present
 
+  * Project 1:
+    * Collaborate with physicians to collect patient data and relevant information on COVID-19 from two internal databases.
+    * Conduct data cleaning, aggregation, and validation to ensure data accuracy and reliability.
+    * Utilize AWS to build state-of-the-art machine learning pipelines for data analysis and statistical modeling.
+    * Develop an interactive dashboard that presents statistically significant findings, enabling physicians to make data-driven decisions.
+  * Project 2:
+    * Topic and data are both sensitive. This block of text will be replaced once the project has ended.
+
 * **Data Science Research Assistant**, *Institute for Neural Computation*, Aug 2022 - Present
 
-  * Under the supervision of Margot Wagner: research Adolescent Brain Cognitive Development with a focus on functional magnetic resonance
-imaging with people from Neuroscience, and Psychology backgrounds.
-  * Build machine learning pipelines on related datasets.
+  * Conduct research on Adolescent Brain Cognitive Development (ABCD) using structural magnetic resonance imaging
+(sMRI), working alongside Neuroscience and Psychology professionals under the supervision of Ph.D. Candidate Margot Wagner.
+  * Collect and organize data from 351 external databases by querying and web scraping to create data lookup tables, contributing to the development of a comprehensive understanding of the field.
+  * Develop deep learning pipelines (SynthSeg, 3D-CNN, etc) for analyzing images and detecting depression, including conducting literature reviews, discussing model selection, and building the pipelines, contributing to ongoing research on the relationship between brain development and cognitive function in adolescents.
 
 * **Undergraduate Teaching Assistant**, *US San Diego*, Jan 2021 - Present
 
-  * Teach 8 different courses across 3 departments while maintaining a 100% positive feedback rate since freshman year. Topics include Econometrics, Calculus, Data Structures, Machine Learning, and Programming.
-  * Lead discussion sessions for 1000+ students and hold 300+ office hours to help students better understand the topics.
-  * Develop interactive programming assignments, quizzes, exams, and a new course website, build Docker-based Gradescope Autograder for Python, Java, and Stata scripts, build unsupervised models to detect academic integrity violations on remote exams, and initiate new course policies for course improvement.
-    <details>
-    <summary>Click to view teachings by quarter</summary>
-
-
-        Fall 2022: DSC 40A, ECON 120B.<br>
-
-        Spring 2022: DSC 20, DSC 30, MATH 109<br>
-
-        Winter 2022: DSC 20, MATH 20A<br>
-
-        Fall 2021: DSC 20, MATH 20A<br>
-
-        Spring 2021: MATH 20D<br>
-
-        Winter 2021: MATH 20C<br>
-    </details>
-
-* WeChat Content Writer, Panopath, Jun 2020 - Aug 2020
-  * Published professional articles introducing American cultures to international students. Topics include American football, American elections and politics, college selections, and restaurant recommendations.
-  * The most viewed article achieved 3,000 views.
-
-* Volunteer Research Assistant, Peking University, Jun 2019 - Aug 2019
-  * Collaborated with Ph.D. students from Peking University on a marine garbage modeling project.
-  * Learned different sampling methods and statistical testings (Hypothesis Test and A\|B Test) in practice.
-  * Used statistical methods to monitor and analyze marine garbage along 20 miles of the coastal line of Shenzhen.
-
-* Personal Loan Intern, China Construction Bank, Jun 2018 - Aug 2018
-  * Learned workflow of providing personal loans with a focus on background credit checks and corresponding risk analysis.
-  * Worked with managers, communicated with the customers, collected and reviewed application materials, verified credibility, and analyzed risks through applicant history.
-  * Successfully assisted supervisor in providing personal loans valued over 7M to 10 customers with backgrounds varying from small business owners to blue-collar workers.
+  * Teach 10 different courses across 3 departments, covering topics such as data science fundamentals, machine learning, graph theory, programming, calculus, and econometrics.
+  * Lead discussion sessions for 1300+ students and hold 350+ office hours to help students better understand the material.
+  * Develop interactive programming assignments, quizzes, exams, and a new course website, while building a Docker- based Gradescope Autograder for Python, Java, and Stata scripts, and unsupervised machine learning models to detect academic integrity violations on remote exams.
+  * Initiate new course policies to improve the course experience and encourage better learning outcomes.
 

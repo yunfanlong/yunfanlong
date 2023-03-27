@@ -8,8 +8,9 @@ classes: wide
 
 ---
 
+Coming soon!
 
-### Selected Projects
+<!-- ### Selected Projects
 {: .no_toc .text-delta }
 
 1. TOC
@@ -40,6 +41,6 @@ classes: wide
 #### Crime Index and Wealth Analysis
 
 * Collected and cleaned data of neighborhoods around San Diego from ArcGIS, and performed exploratory data analysis on average wealth in the communities and their corresponding crime indexes.
-* Built data visualization and performed A\|B testings to better explain our variables, built machine learning pipelines for predictive analysis, and applied geospatial analysis to support our findings that areas with higher average household income are generally more robust to crimes.
+* Built data visualization and performed A\|B testings to better explain our variables, built machine learning pipelines for predictive analysis, and applied geospatial analysis to support our findings that areas with higher average household income are generally more robust to crimes. -->
 
 

@@ -187,7 +187,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <br>
       Prof. Emmanuel Vavalis
       <br>
-      <em>UCSD MATH 20C WI21</em>
+      <em>UCSD MATH 20C WI21*</em>
       <br>
       
       
