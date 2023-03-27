@@ -20,7 +20,7 @@ Below are full lists and details of the classes in which I served as an undergra
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="/assets/images/dsc80.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/dsc80.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>The Practice and Application of Data Science (X2)</h3>
@@ -40,7 +40,7 @@ Below are full lists and details of the classes in which I served as an undergra
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="/assets/images/dsc40b.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/dsc40b.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Theoretical Foundations of Data Science II</h3>
@@ -61,7 +61,7 @@ Below are full lists and details of the classes in which I served as an undergra
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="/assets/images/dsc40a.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/dsc40a.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Theoretical Foundations of Data Science I</h3>
@@ -71,7 +71,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD DSC 40A  FA22</em>
       <br>
       
-      <a href="/assets/pdfs/dsc40a_eval.pdf">evaluation</a> /
+      <a href="../assets/pdfs/dsc40a_eval.pdf">evaluation</a> /
       
       <a href="https://dsc40a.com">website</a>
       
@@ -84,7 +84,7 @@ Below are full lists and details of the classes in which I served as an undergra
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="/assets/images/dsc30.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/dsc30.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Data Structures and Algorithms for Data Science </h3>
@@ -104,7 +104,7 @@ Below are full lists and details of the classes in which I served as an undergra
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="/assets/images/dsc20.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/dsc20.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Programming and Basic Data Structures for Data Science (x3)</h3>
@@ -134,7 +134,7 @@ Below are full lists and details of the classes in which I served as an undergra
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="/assets/images/math109.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/math109.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Mathematical Reasoning</h3>
@@ -144,7 +144,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD MATH 109  SP22*</em>
       <br>
       
-      <a href="/assets/pdfs/math109_eval.pdf">evaluation</a> /
+      <a href="../assets/pdfs/math109_eval.pdf">evaluation</a> /
       
       
       <a href="https://catalog.ucsd.edu/courses/MATH.html#math109">website</a>
@@ -157,7 +157,7 @@ Below are full lists and details of the classes in which I served as an undergra
   
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="/assets/images/math20d.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/math20d.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Introduction to Differential Equations</h3>
@@ -167,7 +167,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD MATH 20D  FA22*, SP21*</em>
       <br>
       
-      <a href="/assets/pdfs/math20d_eval.pdf">evaluation</a> /
+      <a href="../assets/pdfs/math20d_eval.pdf">evaluation</a> /
       
       
       <a href="https://catalog.ucsd.edu/courses/MATH.html#math20d">website</a>
@@ -180,7 +180,7 @@ Below are full lists and details of the classes in which I served as an undergra
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="/assets/images/math20c.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/math20c.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Calculus and Analytic Geometry for Science and Engineering</h3>
@@ -201,7 +201,7 @@ Below are full lists and details of the classes in which I served as an undergra
   
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="/assets/images/math20a.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/math20a.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Calculus for Science and Engineering</h3>
@@ -211,7 +211,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD MATH 20A WI22, FA21</em>
       <br>
       
-      <a href="/assets/pdfs/math20a_eval.pdf">evaluation</a> /
+      <a href="../assets/pdfs/math20a_eval.pdf">evaluation</a> /
       
       
       <a href="https://catalog.ucsd.edu/courses/MATH.html#math20a">website</a>
@@ -232,7 +232,7 @@ Below are full lists and details of the classes in which I served as an undergra
 
 <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-    <img src="/assets/images/econ120b.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    <img src="../assets/images/econ120b.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
     <h3>Econometrics</h3>
