@@ -160,7 +160,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <img src="../assets/images/math20d.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Introduction to Differential Equations</h3>
+      <h3>Introduction to Differential Equations (X2)</h3>
       <br>
       Prof. Nandagopal Ramachandran, Prof. Ming Xiao
       <br>
@@ -204,7 +204,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <img src="../assets/images/math20a.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Calculus for Science and Engineering</h3>
+      <h3>Calculus for Science and Engineering (X2)</h3>
       <br>
       Prof. Yucheng Tu, Prof. Yuming Zhang
       <br>
@@ -235,7 +235,7 @@ Below are full lists and details of the classes in which I served as an undergra
     <img src="../assets/images/econ120b.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-    <h3>Econometrics</h3>
+    <h3>Econometrics (X2)</h3>
     <br>
     Prof. Gordon Dahl, Prof. Maria Candido
     <br>
