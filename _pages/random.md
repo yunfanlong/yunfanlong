@@ -81,5 +81,7 @@ Check out this simple problem; it was so easy that I could have solved it when I
 
 ### Guitar during 2020 quarantine
 
-My friend has taught me playing guitar during the pandemic. Here is a video in case I lost it.
-[![MePlayingGuitar](https://res.cloudinary.com/marcomontalbano/image/upload/v1639787385/video_to_markdown/images/google-drive--1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP/view?usp=sharing "MePlayingGuitar")
+My friends taught me to play guitar during the pandemic. Here's a video of us in case I lose it.
+
+
+<center><iframe width="600" height="400" src="https://drive.google.com/file/d/1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP/preview" title="MePlayingGuitar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
