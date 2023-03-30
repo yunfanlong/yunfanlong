@@ -16,8 +16,8 @@ title_separator          : "-"
 name                     : "Weiyue Li"
 description              : "Powered by Jekyll and minimal-mistakes theme"
 url                      : "https://weiyueli7.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/weiyueli.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "weiyueli7/weiyueli.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "weiyueli7/weiyueli7.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/favicon/android-chrome-192x192.png"
 # breadcrumbs            : false # true, false (default)
@@ -35,7 +35,7 @@ comments:
     colorscheme          : dark # "light" (default), "dark"
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : lunr # lunr (default), algolia, google
+search_provider          : google # lunr (default), algolia, google
 lunr:
   search_within_pages    : true # true, false (default)
 
