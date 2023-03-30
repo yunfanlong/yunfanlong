@@ -73,6 +73,19 @@ tr:nth-child(even) {
 </table>
 
 
+### RMP highlights
+
+Recording the most interesting rate my professor reviews I have seen so far:
+
+- This review made me scared of the DSC major. I'm glad I didn't believe it, lol.
+
+  <center><img src="../assets/images/rmp1.png" alt="review image" style="width:70%; height:auto; max-width:100%; max-height:200px" /></center>
+
+- I bet you 1000 bucks that these two reviews came from the same person.
+
+  <center><img src="../assets/images/rmp2.png" alt="review image" style="width:70%; height:auto; max-width:100%; max-height:600px" /></center>
+
+
 ### Shame of my undergraduate career
 
 Check out this simple problem; it was so easy that I could have solved it when I was in 10th grade. However, I ended up breaking my cumulative 4.0 in my sophomore year just because of this problem. 😅 I put this image here just to remind myself daily to always check my work, no matter how easy a question might look.
