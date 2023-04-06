@@ -242,6 +242,8 @@ Below are full lists and details of the classes in which I served as an undergra
     <em>UCSD ECON 120B WI23, FA22</em>
     <br>
 
+    <a href="../assets/pdfs/econ120b_eval.pdf">evaluation</a> /
+
     <a href="https://catalog.ucsd.edu/courses/ECON.html#econ120b">website</a>
     
     <p></p>
