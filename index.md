@@ -3,11 +3,11 @@ layout: home
 author_profile: true
 classes: wide
 ---
-| 🎉 <span style='color:Blue'><b>Welcome to my new personal website! Last update Mar 2023.</b></span> <br>
+| 🎉 <span style='color:Blue'><b>Welcome to my new personal website! Last update April 2023.</b></span> <br>
 
 ## About Me💯
 
-Hello! I am a third-year undergraduate student at [University of California San Diego](https://ucsd.edu/), pursuing a double major in [Data Science (BS)](https://datascience.ucsd.edu/academics/undergraduate/major-requirements/) from the [Halıcıoğlu Data Science Institute at UC San Diego](https://datascience.ucsd.edu/), and [Joint Major of Mathematics and Economics (BS)](https://economics.ucsd.edu/undergraduate-program/major-minor-requirements/joint-econ-math-major-ba.html) from the [Department of Economics](https://economics.ucsd.edu/).
+Hello! I am a third-year undergraduate student at [University of California San Diego](https://ucsd.edu/), pursuing a triple major in [Data Science (BS)](https://datascience.ucsd.edu/academics/undergraduate/major-requirements/) from the [Halıcıoğlu Data Science Institute at UC San Diego](https://datascience.ucsd.edu/), [Applied Mathematics (BS)](https://math.ucsd.edu/students/undergraduate/ma27-applied-mathematics-b-s) from the [Department of Mathematics](https://math.ucsd.edu/), and [Economics (BA)](https://economics.ucsd.edu/undergraduate-program/major-minor-requirements/economics-major-ba.html) from the [Department of Economics](https://economics.ucsd.edu/).
 
 I aspire to become a data scientist, and my area of focus in machine learning pertains to the practical aspects of domain generalization and transfer. My proficiency in machine learning, deep learning, and data analysis has enabled me to contribute to multiple research and internship projects in industries such as healthcare, economics, semiconductors, and computer hardware.
 
