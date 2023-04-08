@@ -13,7 +13,6 @@ I aspire to become a data scientist, and my area of focus in machine learning pe
 
 Moreover, I am passionate about education. As an undergraduate teaching assistant, I have assisted in more than 10 courses offered by the Data Science, Mathematics, and Economics departments, helping over 2000 students. I have also worked with more than 10 teaching faculties to enhance the course experience for students.
 
-Outside of academics, my hobbies include working out, playing football🏈 and basketball🏀, hiking🏃, playing PUBG mobile, watching YouTube videos, and more. As I went to high school near Chicago, I am a big Chicago Bears fan! 🐻⬇️
 
 
 ## Schedule📅

@@ -15,8 +15,15 @@ In this page, I will showcase my computational thinking teaching skill learned f
 1. TOC
 {:toc}
 
-### Explaining a Video
+### Explaining a Program: Sequencing
 
-This is a video of me explaining a [Snap](https://snap.berkeley.edu/) sequencing program.
+This is a video of me explaining a [Snap program](https://snap.berkeley.edu/project?username=wel019&projectname=WP_Sequencing) with an emphasis on sequencing.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dG4tT8XV77w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Explaning a Program: Repeats
+
+This is a video of me explaining a [Snap program](https://snap.berkeley.edu/project?username=wel019&projectname=WP_Repeats%2dcustomized) with an emphasis on repeats.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/exEdb5XSL2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
