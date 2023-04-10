@@ -27,3 +27,8 @@ This is a video of me explaining a [Snap program](https://snap.berkeley.edu/proj
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/exEdb5XSL2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Explaning a Program: Repeats-2
+This is a video of me explaining a [Scratch program](https://scratch.mit.edu/projects/833029587) with an emphasis on repeats.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DiAhX-gIxoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
