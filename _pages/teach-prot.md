@@ -42,7 +42,7 @@ This is a video of me explaining a [Snap program](https://snap.berkeley.edu/proj
 
 ### Explaining a Program: Events
 
-This is a video of me explaining a [Snap program](https://snap.berkeley.edu/project?username=wel019&projectname=WP_Events) with an emphasis on nested events.
+This is a video of me explaining a [Snap program](https://snap.berkeley.edu/project?username=wel019&projectname=WP_Events) with an emphasis on events.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSHD0yiYYsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
