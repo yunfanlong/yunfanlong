@@ -2,18 +2,24 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
-comments: true
+comments: false
 author_profile: true
 classes: wide
+toc: true
+toc_label: "Teaching by Department"
+toc_icon: "book"
+toc_sticky: true
+# sidebar:
+#   nav: "docs"
 ---
 
 Below are full lists and details of the classes in which I served as an undergraduate teaching assistant in the past. The names of the instructors are listed based on the time I worked with them. If I did grading for a particular course in a given quarter, it will be marked with an asterisk [*]. Any available instructor evaluations are also attached.
 
-### Teaching by Department
+<!-- ### Teaching by Department
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+{:toc} -->
 
 #### Data Science
 

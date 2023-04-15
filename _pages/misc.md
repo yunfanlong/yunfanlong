@@ -23,7 +23,7 @@ This page serve as a place to keep all random things about me.
 ### Cat learning 🐱
 Meet Emo! Who needs machine learning when my cat is learning? 😭
 
-<center><iframe width="600" height="350" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="CatLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="350" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="CatLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
 ### Drinks for staying up all night 💪
@@ -105,7 +105,7 @@ Check out this simple problem; it was so easy that I could have solved it when I
 
 What will happen if you call your 65-year-old track coach by his first name? (This was for a social experiment in my AP Psychology class).
 
-<center><iframe width="600" height="350" src="https://drive.google.com/file/d/1y0nbZ5wQLjRz6WnlyL5IPsz8oCScHKO_/preview" title="SocialExperiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="350" src="https://drive.google.com/file/d/1y0nbZ5wQLjRz6WnlyL5IPsz8oCScHKO_/preview" title="SocialExperiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
 ### Guitar during 2020 quarantine
@@ -113,4 +113,4 @@ What will happen if you call your 65-year-old track coach by his first name? (Th
 My friends taught me to play guitar during the pandemic. Here's a video of us in case I lose it.
 
 
-<center><iframe width="600" height="350" src="https://drive.google.com/file/d/1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP/preview" title="MePlayingGuitar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="350" src="https://drive.google.com/file/d/1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP/preview" title="MePlayingGuitar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>

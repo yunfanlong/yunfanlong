@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Weiyue Li"
 title_separator          : "-"
 name                     : "Weiyue Li"
-description              : "Powered by Jekyll and minimal-mistakes theme"
+description              : "Personal website"
 url                      : "https://weiyueli7.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weiyueli7/weiyueli7.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -23,7 +23,7 @@ logo: "/assets/favicon/android-chrome-192x192.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : #"zengliX" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
