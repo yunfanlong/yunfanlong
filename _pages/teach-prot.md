@@ -47,5 +47,12 @@ This is a video of me explaining a [Snap program](https://snap.berkeley.edu/proj
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSHD0yiYYsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+### Explaining a Program: Variables
+
+This is a video of me explaining a [Snap program](https://snap.berkeley.edu/project?username=wel019&projectname=WP_Variables) with an emphasis on variables.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmskfHIXgDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 
