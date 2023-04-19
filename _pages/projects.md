@@ -5,10 +5,119 @@ permalink: /projects/
 comments: true
 author_profile: true
 classes: wide
-
+toc: true
+toc_label: "Projects by Categories"
+toc_icon: "book"
+toc_sticky: true
 ---
 
-Coming soon!
+This page is still under construction. More content will be added soon!
+
+
+### AI/ML
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/dcgans.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>DCGANs on Image Classification Task</h3>
+      <strong>Weiyue Li</strong>, Yi Li
+      <br>
+      <a href="https://github.com/weiyueli7/DCGANs/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/DCGANs">code</a>
+      <p>Our project aims to revolutionize image synthesis and classification by combining Deep Convolutional Generative Adversarial Networks (DCGANs) with Convolutional Neural Networks (CNNs). We seek to demonstrate the potential of DCGAN techniques in producing highly realistic images and achieving strong performance in image classification by utilizing these synthetic images during training.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/image-cap.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Automatic Image Annotation</h3>
+      Yi Li, <strong>Weiyue Li</strong>, Linghang Kong, Yibo Wei, Shuangmu Wu
+      <br>
+      <a href="https://github.com/weiyueli7/Automatic-Image-Annotation/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/Automatic-Image-Annotation">code</a>
+      <p>In this project, we trained an algorithm to caption input images. This required the algorithm to identify objects in the images and match them to a corpus of text. We used PyTorch to implement multiple Recurrent Neural Network (RNN) models, including LSTM, Vanilla RNN, and a custom model (Architecture 2), to generate captions for the images in our dataset, specifically the well-known COCO Image Captioning Task.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/recommender.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Recipe Recommender System</h3>
+      <strong>Weiyue Li</strong>, Yi Li, Xiaoyue Wang, Ruoyu Hou
+      <br>
+      <a href="https://github.com/weiyueli7/Recipe-Recommender/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/Recipe-Recommender">code</a>
+      <p>In this project, we first performed exploratory data analysis on datasets from food.com. We then implemented various types of recommendation system models to recommend recipes to users, predict ratings based on sentiment analysis, and predict recipe categories.</p>
+    </td>
+  </tr>
+</table>
+
+
+### Data Analysis
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/covid.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Taming COVID-19 Statistics to Reflect Happiness Score Metrics</h3>
+      Zirui Wang, <strong>Weiyue Li</strong>, Luning Yang, Yuru Zhou
+      <br>
+      <a href="https://zwcolin.github.io/COVID-19-Happiness-Score/FinalProjectGroup065-Fa21.html">report</a> / <a href="https://github.com/zwcolin/COVID-19-Happiness-Score">code</a>
+      <p>In this project, we make use of the vaccination/death data by country, and explore the relationship between the set of {nation-wide onset date of vaccination, average new vaccination/death rate across different time spans}, and various metrics of happiness score in 2021. In particular, we are trying to figure out to what extent our independent varibles, namely all COVID-19 related data, are correlated to these metrics (i.e. social support, healthy life expectancy, perception of corruption, and generosity) of happiness scores.</p>
+    </td>
+  </tr>
+</table>
+
+
+### Econometrics
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/wage-gap.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Occupation in Wage Gap Between Sex</h3>
+      Jiahui Cai, <strong>Weiyue Li</strong>
+      <br>
+      <a href="https://github.com/weiyueli7/Wage-Gap-Analysis/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/Wage-Gap-Analysis">code</a>
+      <p>In this project, we perform a regression analysis to the IPUMS CPS data. In particular, we divide occupations into male-dominated, female-dominated, and equal-dominated and perform a regression analysis to aim for drawing a causal inference of occupation on the wage gap between sex during the COVID and post-COVID era.</p>
+    </td>
+  </tr>
+</table>
+
+
+### Data Visualization
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/nfl-players.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>NFL Players Visualization</h3>
+      <strong>Weiyue Li</strong>
+      <br>
+      <a href="https://weiyueli7.github.io/NFL-Players-Viz/">report</a> / <a href="https://github.com/weiyueli7/NFL-Players-Viz">code</a>
+      <p>In this project, I have developed an interactive dashboard aimed at providing high school varsity football players with a more comprehensive understanding of the critical considerations involved in becoming NFL players. In addition to drawing conclusions from past data, I have also made data-driven suggestions for young players. The primary objective of this project was to practice and enhance my skills in JavaScript, D3.js, and HTML.</p>
+    </td>
+  </tr>
+</table>
+
+
+### Others
+
+This is a [website](https://sites.google.com/ucsd.edu/weiyue-li-first-year-japanese/home) that contains works I have done for the 3-quarter sequence of first-year Japanese courses I have taken in my freshman year of college. In case you are interested in taking the sequence, here are the topics you will work on.
+
+
+
+
+
 
 <!-- ### Selected Projects
 {: .no_toc .text-delta }

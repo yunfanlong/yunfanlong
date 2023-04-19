@@ -38,9 +38,22 @@ I have been assisting fellow students with schedule planning since my freshman y
 Since my freshman year, I have been serving as an Instructional Assistant at UCSD, and have provided numerous suggestions and tips to fellow students regarding the application process for various positions in different departments. If you are interested in becoming a Math TA, DSC Tutor, or Econ UIA, I would be more than happy to offer guidance and advice. Please do not hesitate to contact me.
 
 
+<!-- <div class="repo p-2 text-center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" rel="external nofollow noopener" target="_blank">
+    <img class="repo-img-light w-200" alt="weiyueli7" src="https://github-profile-trophy.vercel.app/?username=weiyueli7&theme=flat">
+  </a>
+</div> -->
+
+<!-- <div class="repo p-2 text-center">
+  <a href="https://github.com/weiyueli7" rel="external nofollow noopener" target="_blank">
+    <img class="repo-img-light w-100" alt="weiyueli7" src="https://github-readme-stats.vercel.app/api/?username=weiyueli7&amp;theme=default&amp;show_icons=true">
+  </a>
+</div> -->
+
+<div class="repo p-2 text-center">
  <a href='https://thesiswritingservice.net/'>https://thesiswritingservice.net</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6845903291ed6ccfe1448945380782ca81dfca7f'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1018589/t/7"></script>
-
+</div>
 
 
 
