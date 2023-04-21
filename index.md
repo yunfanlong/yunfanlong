@@ -51,7 +51,7 @@ Since my freshman year, I have been serving as an Instructional Assistant at UCS
 </div> -->
 
 <div class="repo p-2 text-center">
- <a href='https://thesiswritingservice.net/'>https://thesiswritingservice.net</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6845903291ed6ccfe1448945380782ca81dfca7f'></script>
+  <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6845903291ed6ccfe1448945380782ca81dfca7f'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1018589/t/7"></script>
 </div>
 
