@@ -114,6 +114,9 @@ This page is still under construction. More content will be added soon!
 
 This is a [website](https://sites.google.com/ucsd.edu/weiyue-li-first-year-japanese/home) that contains works I have done for the 3-quarter sequence of first-year Japanese courses I have taken in my freshman year of college. In case you are interested in taking the sequence, here are the topics you will work on.
 
+This [page](https://weiyueli7.github.io/teaching_portfolio/) captures all of my work from EDS 124BR (Teach Computational Thinking). I think this course has helped me to become better at my job as a teaching assistant.
+
+
 
 
 
