@@ -68,5 +68,9 @@ This is a video of me explaining a [Snap program](https://snap.berkeley.edu/proj
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EumYQKGaoow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+### Explaining a Program: Nested If-Else
 
+This is a video of me explaining a [Snap program](https://snap.berkeley.edu/project?username=wel019&projectname=WP_Nested_If_Else) with an emphasis on nested if-else.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CulqK9Xg4qc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
