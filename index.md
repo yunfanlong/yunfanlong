@@ -34,7 +34,7 @@ If you are interested in taking classes together, please find my quarter-by-quar
 
 I have been assisting fellow students with schedule planning since my freshman year, and I am happy to help with any questions you may have regarding scheduling if you are in a similar major or from the same college (Warren).
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRs36lkE0JajzcbJCFN3bU_qM6a1fDWlOQh566MBlElvln4P22Uah_3ThOb4U1FZT0w9ZErZuyhZ04z/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRs36lkE0JajzcbJCFN3bU_qM6a1fDWlOQh566MBlElvln4P22Uah_3ThOb4U1FZT0w9ZErZuyhZ04z/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="1100" frameborder="0" scrolling="no"></iframe>
 
 #### Becoming an IA 
 
