@@ -13,13 +13,42 @@ toc_sticky: true
 #   nav: "docs"
 ---
 
-Below are full lists and details of the classes in which I served as an undergraduate teaching assistant in the past. The names of the instructors are listed based on the time I worked with them. If I did grading for a particular course in a given quarter, it will be marked with an asterisk [*]. Any available instructor evaluations are also attached.
+Below are full lists and details of the classes in which I served as an undergraduate teaching assistant at UCSD. The names of the instructors are listed based on the time I worked with them. Any available instructor evaluations are also attached.
 
 <!-- ### Teaching by Department
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc} -->
+
+#### Computer Science and Engineering
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+
+<tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+    <img src="../assets/images/cse150a.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+    <h3>AI: Probabilistic Models</h3>
+    <br>
+    Prof. Mary Smart
+    <br>
+    <em>UCSD CSE 150A S123</em>
+    <br>
+
+    <!-- <a href="../assets/pdfs/econ120b_eval.pdf">evaluation</a> /
+
+    <a href="https://catalog.ucsd.edu/courses/ECON.html#econ120b">website</a> -->
+    
+    <p></p>
+    <p>Introduction to probabilistic models at the heart of modern artificial intelligence. Specific topics to be covered include probabilistic methods for reasoning and decision-making under uncertainty; inference and learning in Bayesian networks; prediction and planning in Markov decision processes; applications to intelligent systems, speech and natural language processing, information retrieval, and robotics.</p>
+
+    </td>
+</tr>
+</table>
+
 
 #### Data Science
 
