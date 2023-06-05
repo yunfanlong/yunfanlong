@@ -54,8 +54,10 @@ Since my freshman year, I have been serving as an Instructional Assistant at UCS
 </div> -->
 
 <div class="repo p-2 text-center">
-  <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6845903291ed6ccfe1448945380782ca81dfca7f'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1018589/t/7"></script>
+  <!-- <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6845903291ed6ccfe1448945380782ca81dfca7f'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1018589/t/7"></script> -->
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=r1iGsmA-oX3PfeADisoirj-cIu_lnGx8391sdASyesk&co=19a0ff'></script>
 </div>
 
 
