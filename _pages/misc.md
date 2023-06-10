@@ -25,44 +25,12 @@ Meet Emo! Who needs machine learning when my cat is learning? 😭
 
 <center><iframe width="560" height="315" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="CatLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-There are four memes about her below. Hover your mouse over them (or click on them if you are on your phone) to see. Feel free to follow [her Instagram](https://www.instagram.com/emo_caviar/) for more!
-
-<!-- <style>
-
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            grid-gap: 5px;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .grid-item {
-            width: 80%;
-            max-width:200px; 
-            max-height:200px;
-            margin: 0 auto;
-        }
-</style>
-<div class="grid-container">
-    <div class="grid-item">
-        <img src="../assets/images/misc/emo/emo1.jpg" alt="Emo 1">
-    </div>
-    <div class="grid-item">
-        <img src="../assets/images/misc/emo/emo2.jpg" alt="Emo 2">
-    </div>
-    <div class="grid-item">
-        <img src="../assets/images/misc/emo/emo3.jpg" alt="Emo 3">
-    </div>
-    <div class="grid-item">
-        <img src="../assets/images/misc/emo/emo4.jpg" alt="Emo 4">
-    </div>
-</div> -->
+There are six memes about her below. Hover your mouse over them (or click on them if you are on your phone) to see. Feel free to follow [her Instagram](https://www.instagram.com/emo_caviar/) for more!
 
 <style>
     .grid-container {
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
         grid-gap: 5px;
         justify-content: center;
         align-items: center;
@@ -70,8 +38,60 @@ There are four memes about her below. Hover your mouse over them (or click on th
 
     .grid-item {
         width: 80%;
-        max-width: 200px;
-        max-height: 200px;
+        max-width: 250px;
+        max-height: 250px;
+        margin: 0 auto;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .grid-item img {
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        width: 100%;
+        height: auto;
+    }
+
+    .grid-item:hover img {
+        opacity: 1;
+    }
+</style>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo1.JPG" alt="Emo 1">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo2.JPG" alt="Emo 2">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo3.JPG" alt="Emo 3">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo4.JPG" alt="Emo 4">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo5.JPG" alt="Emo 5">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo6.JPG" alt="Emo 6">
+    </div>
+</div>
+
+
+<!-- <style>
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 5px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .grid-item {
+        width: 80%;
+        max-width: 250px;
+        max-height: 250px;
         margin: 0 auto;
         overflow: hidden;
     }
@@ -101,7 +121,13 @@ There are four memes about her below. Hover your mouse over them (or click on th
     <div class="grid-item">
         <img src="../assets/images/misc/emo/emo4.JPG" alt="Emo 4">
     </div>
-</div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo5.JPG" alt="Emo 5">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo6.JPG" alt="Emo 6">
+    </div>
+</div> -->
 
 
 
