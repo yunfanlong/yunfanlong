@@ -7,14 +7,14 @@ classes: wide
 
 ## About Me💯
 
-Hello! My name is Weiyue Li (李威岳) and I am a third-year undergraduate student at University of California San Diego, pursuing a triple major in Data Science (BS), Applied Mathematics (BS), and Economics (BA). I am a Provost Honor recipient every academic quarter and a member of the Warren College Honor Society.
+Hello! My name is Weiyue Li (李威岳), and I am a third-year undergraduate student at the University of California San Diego, pursuing a triple major in Data Science (BS), Applied Mathematics (BS), and Economics (BA). I am a Provost Honor recipient every academic quarter and a member of the Warren College Honor Society.
 
-I am deeply committed to becoming a data scientist with a particular focus on machine learning, specifically, the practical aspects of domain generalization and transfer. My expertise in machine learning, deep learning, and data analysis has allowed me to make valuable contributions to multiple research and internship projects spanning industries such as healthcare, economics, semiconductors, and computer hardware.
+I am deeply committed to becoming a data scientist with a particular focus on machine learning and artificial intelligence, specifically the practical aspects of domain generalization and transfer. My expertise in machine learning, deep learning, and data analysis has allowed me to make valuable contributions to multiple research and internship projects spanning industries such as healthcare, economics, semiconductors, and computer hardware.
 
-Currently, I have the good fortune of working in Professor [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski)'s lab on an applied deep learning project advised by [Margot Wagner](https://www.margotwagner.com/). I am also advised by [Weitang Liu](https://sites.google.com/ucsd.edu/weitangliu/) on a sample efficient algorithm on computer vision project. In addition, I am advised by Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/) and Dr. [Ganz Chockalingam](https://pdel.ucsd.edu/people/research-affiliates/ganz-chockalingam.html) for other application-based research projects.
+Currently, I am advised by [Weitang Liu](https://sites.google.com/ucsd.edu/weitangliu/) on a project about sample-efficient algorithms in computer vision. In addition, I am advised by Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/), Professor [Mingxiong Huang](https://www.ece.ucsd.edu/node/516), and Dr. [Ganz Chockalingam](https://pdel.ucsd.edu/people/research-affiliates/ganz-chockalingam.html) for other application-based research projects. Before that, I had the good fortune of working in Professor [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski)'s lab on an applied deep learning project advised by Dr. [Margot Wagner](https://www.margotwagner.com/).
 
+Moreover, I am passionate about education. As an undergraduate teaching assistant, I have assisted in more than 10 courses offered by the Computer Science and Engineering, Data Science, Mathematics, and Economics departments, helping over 2000 students. I have also worked with more than 10 teaching faculties to enhance the course experience for students at UCSD.
 
-Moreover, I am passionate about education. As an undergraduate teaching assistant, I have assisted in more than 10 courses offered by the Data Science, Mathematics, and Economics departments, helping over 2000 students. I have also worked with more than 10 teaching faculties to enhance the course experience for students at UCSD.
 
 
 

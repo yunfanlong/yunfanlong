@@ -23,10 +23,12 @@ This page serve as a place to keep all random things about me.
 ### Cat learning 🐱
 Meet Emo! Who needs machine learning when my cat is learning? 😭
 
-<center><iframe width="100%" height="350" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="CatLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="80%" height="350" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="CatLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
 ### Drinks for all-nighters 💪
+
+Essential knowledge for college students nowadays...
 
 <style>
 table {
@@ -87,25 +89,26 @@ tr:nth-child(even) {
 
 Recording the most interesting rate my professor reviews I have seen so far:
 
-- This review made me scared of the DSC major. I'm glad I didn't believe it, lol.
+- Might be a good choice 🤔️
 
   <center><img src="../assets/images/rmp1.png" alt="review image" style="width:70%; height:auto; max-width:100%; max-height:200px" /></center>
 
-- I bet you 1000 bucks that these two reviews came from the same person.
+- "A curve on the exam will make you the best Professor in the world".
 
   <center><img src="../assets/images/rmp2.png" alt="review image" style="width:70%; height:auto; max-width:100%; max-height:600px" /></center>
 
 
 ### A silly mistake 🤯
 
-Check out this simple problem; it was so easy that I could have solved it when I was in 10th grade. However, I ended up breaking my cumulative 4.0 in my sophomore year just because of this problem. 😅 I put this image here just to remind myself daily to always check my work, no matter how easy a question might look.
+I ended up breaking my cumulative 4.0 in my sophomore year just because of this problem 😅
+
 <center><img src="../assets/images/shame.png" alt="product image" style="width:50%; height:auto; max-width:100%; max-height:400px; margin-left: auto; margin-right: auto;" /></center>
 
 ### A dangerous social experiment
 
 What will happen if you call your 65-year-old track coach by his first name? (This was for a social experiment in my AP Psychology class).
 
-<center><iframe width="100%" height="350" src="https://drive.google.com/file/d/1y0nbZ5wQLjRz6WnlyL5IPsz8oCScHKO_/preview" title="SocialExperiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="80%" height="350" src="https://drive.google.com/file/d/1y0nbZ5wQLjRz6WnlyL5IPsz8oCScHKO_/preview" title="SocialExperiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
 ### Guitar during 2020 quarantine
@@ -113,4 +116,4 @@ What will happen if you call your 65-year-old track coach by his first name? (Th
 My friends taught me to play guitar during the pandemic. Here's a video of us in case I lose it.
 
 
-<center><iframe width="100%" height="350" src="https://drive.google.com/file/d/1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP/preview" title="MePlayingGuitar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="80%" height="350" src="https://drive.google.com/file/d/1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP/preview" title="MePlayingGuitar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
