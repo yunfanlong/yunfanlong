@@ -2,15 +2,13 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
-comments: false
+comments: true
 author_profile: true
 classes: wide
 toc: true
 toc_label: "Teaching by Department"
 toc_icon: "book"
 toc_sticky: true
-# sidebar:
-#   nav: "docs"
 ---
 
 Below are full lists and details of the classes in which I served as an undergraduate teaching assistant at UCSD. The names of the instructors are listed based on the time I worked with them. Any available instructor evaluations are also attached.

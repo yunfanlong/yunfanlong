@@ -4,7 +4,7 @@ title: "MISC"
 permalink: /misc/
 comments: true
 author_profile: true
-# classes: wide
+classes: wide
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "book"
