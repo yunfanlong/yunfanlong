@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 comments: true
 author_profile: true
-classes: wide
+# classes: wide
 toc: true
 toc_label: "Teaching by Department"
 toc_icon: "book"

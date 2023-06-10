@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 comments: true
 author_profile: true
-classes: wide
+# classes: wide
 toc: true
 toc_label: "Projects by Categories"
 toc_icon: "book"

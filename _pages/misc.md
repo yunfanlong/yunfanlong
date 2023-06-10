@@ -4,7 +4,7 @@ title: "MISC"
 permalink: /misc/
 comments: true
 author_profile: true
-classes: wide
+# classes: wide
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "book"
@@ -26,7 +26,7 @@ Meet Emo! Who needs machine learning when my cat is learning? 😭
 <center><iframe width="100%" height="350" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="CatLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
-### Drinks for staying up all night 💪
+### Drinks for all-nighters 💪
 
 <style>
 table {
