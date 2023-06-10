@@ -2,16 +2,14 @@
 main:
   - title: "About"
     url:  /
-  # - title: "Experience"
-  #   url:  /experience/
   - title: "Projects"
     url: /projects/
   - title: "Teaching"
     url:  /teaching/
-  # - title: "Courses"
-  #   url: /courses/
   - title: "MISC"
     url: /misc/
+  # - title: "Experience"
+  #   url:  /experience/
 
 
 docs:
