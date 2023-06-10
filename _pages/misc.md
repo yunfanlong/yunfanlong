@@ -25,6 +25,93 @@ Meet Emo! Who needs machine learning when my cat is learning? 😭
 
 <center><iframe width="80%" height="350" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="CatLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
+Here are some of her memes, feel free to follow [her Instagram](https://www.instagram.com/emo_caviar/) for more!
+
+<!-- <style>
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: 5px;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .grid-item {
+            width: 80%;
+            max-width:200px; 
+            max-height:200px;
+            margin: 0 auto;
+        }
+</style>
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo1.jpg" alt="Emo 1">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo2.jpg" alt="Emo 2">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo3.jpg" alt="Emo 3">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo4.jpg" alt="Emo 4">
+    </div>
+</div> -->
+
+<style>
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 5px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .grid-item {
+        width: 80%;
+        max-width: 200px;
+        max-height: 200px;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    .grid-item img {
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        width: 100%;
+        height: auto;
+    }
+
+    .grid-item:hover img {
+        opacity: 1;
+    }
+</style>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo1.jpg" alt="Emo 1">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo2.jpg" alt="Emo 2">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo3.jpg" alt="Emo 3">
+    </div>
+    <div class="grid-item">
+        <img src="../assets/images/misc/emo/emo4.jpg" alt="Emo 4">
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 ### Drinks for all-nighters 💪
 
