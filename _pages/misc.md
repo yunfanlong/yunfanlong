@@ -23,7 +23,7 @@ This page serve as a place to keep all random things about me.
 ### Cat learning 🐱
 Meet Emo! Who needs machine learning when my cat is learning? 😭
 
-<center><iframe width="80%" height="350" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="CatLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="CatLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 Here are some of her memes, feel free to follow [her Instagram](https://www.instagram.com/emo_caviar/) for more!
 
@@ -195,7 +195,7 @@ I ended up breaking my cumulative 4.0 in my sophomore year just because of this 
 
 What will happen if you call your 65-year-old track coach by his first name? (This was for a social experiment in my AP Psychology class).
 
-<center><iframe width="80%" height="350" src="https://drive.google.com/file/d/1y0nbZ5wQLjRz6WnlyL5IPsz8oCScHKO_/preview" title="SocialExperiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://drive.google.com/file/d/1y0nbZ5wQLjRz6WnlyL5IPsz8oCScHKO_/preview" title="SocialExperiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
 ### Guitar during 2020 quarantine
@@ -203,4 +203,4 @@ What will happen if you call your 65-year-old track coach by his first name? (Th
 My friends taught me to play guitar during the pandemic. Here's a video of us in case I lose it.
 
 
-<center><iframe width="80%" height="350" src="https://drive.google.com/file/d/1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP/preview" title="MePlayingGuitar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://drive.google.com/file/d/1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP/preview" title="MePlayingGuitar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
