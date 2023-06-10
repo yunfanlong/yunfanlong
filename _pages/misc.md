@@ -90,22 +90,18 @@ There are four memes about her below. Hover your mouse over them to see. Feel fr
 
 <div class="grid-container">
     <div class="grid-item">
-        <img src="../assets/images/misc/emo/emo1.jpg" alt="Emo 1">
+        <img src="../assets/images/misc/emo/emo1.JPG" alt="Emo 1">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/emo/emo2.jpg" alt="Emo 2">
+        <img src="../assets/images/misc/emo/emo2.JPG" alt="Emo 2">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/emo/emo3.jpg" alt="Emo 3">
+        <img src="../assets/images/misc/emo/emo3.JPG" alt="Emo 3">
     </div>
     <div class="grid-item">
-        <img src="../assets/images/misc/emo/emo4.jpg" alt="Emo 4">
+        <img src="../assets/images/misc/emo/emo4.JPG" alt="Emo 4">
     </div>
 </div>
-
-
-
-
 
 
 
