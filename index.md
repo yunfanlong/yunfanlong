@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
-| 🎉 <span style='color:Blue'><b>Welcome to my new personal website! Last update May 2023.</b></span> <br>
+<!-- | 🎉 <span style='color:Blue'><b>Welcome to my new personal website! Last update May 2023.</b></span> <br> -->
 
 ## About Me💯
 
