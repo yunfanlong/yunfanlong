@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url:  /
-  - title: "Experience"
-    url:  /experience/
-  - title: "Teaching"
-    url:  /teaching/
+  # - title: "Experience"
+  #   url:  /experience/
   - title: "Projects"
     url: /projects/
+  - title: "Teaching"
+    url:  /teaching/
   # - title: "Courses"
   #   url: /courses/
   - title: "MISC"
