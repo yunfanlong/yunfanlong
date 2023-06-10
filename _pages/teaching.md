@@ -63,7 +63,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD DSC 80  SP23, WI23</em>
       <br>
       
-      <a href="https://dsc80.com">website</a>
+      <a href="https://dsc-courses.github.io/dsc80-2023-wi/">website</a>
       
       <p></p>
       <p>Students master the data science life-cycle and learn many of the fundamental principles and techniques of data science spanning algorithms, statistics, machine learning, visualization, and data systems.</p>
@@ -106,7 +106,7 @@ Below are full lists and details of the classes in which I served as an undergra
       
       <a href="../assets/pdfs/dsc40a_eval.pdf">evaluation</a> /
       
-      <a href="https://dsc40a.com">website</a>
+      <a href="https://dsc-courses.github.io/dsc40a-2022-fa/">website</a>
       
       <p></p>
       <p>DSC 40A will introduce fundamental topics in machine learning, statistics, and linear algebra with applications to data analysis.</p>
@@ -148,7 +148,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <br>
       
       
-      <a href="https://catalog.ucsd.edu/courses/DSC.html#dsc20">website</a>
+      <a href="https://dsc-courses.github.io/dsc20-2022-sp/">website</a>
       
       <p></p>
       <p>Programming techniques including recursion, higher-order functions, function composition, object-oriented programming, interpreters, classes, and simple data structures such as arrays, lists, and linked lists.</p>
