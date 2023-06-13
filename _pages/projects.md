@@ -25,7 +25,7 @@ This page is still under construction. More content will be added soon!
       <h3>Generative Vision: Image Synthesis with Conditional DCGANs</h3>
       <strong>Weiyue Li</strong>, Charles Ye
       <br>
-      <a href="https://github.com/weiyueli7/cGANs-cDCGANs/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/cGANs-cDCGANs">code</a>
+      <a href="https://github.com/weiyueli7/cGANs-cDCGANs/blob/main/doc/report.pdf">report</a> / <a href="https://github.com/weiyueli7/cGANs-cDCGANs">code</a>
       <p>Our project proposes two architectures with early or late concatenations to improve the performance of the original cGANs paper's architecture. The project involves training cDCGANs and cGANs on large-scale labeled datasets, where the models are conditioned on auxiliary information such as class labels. We also employ various metrics to evaluate the performance, and the results show that our cDCGANs model validates its effectiveness in generating high-quality and realistic images.</p>
     </td>
   </tr>
