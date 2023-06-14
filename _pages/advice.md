@@ -4,7 +4,7 @@ title: "Advice"
 permalink: /advice/
 comments: false
 author_profile: true
-classes: wide
+# classes: wide
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "book"
@@ -18,6 +18,12 @@ toc_sticky: true
 
 2. CSE 250A with Prof. [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). ⭐⭐⭐⭐⭐
    - A solid substitute for DSC 140A if you are a data science major student. Prof. Berg-Kirkpatrick's lectures are some of the best I have seen at UCSD.
+
+3. COGS 118A with Prof. [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) or [Jason Fleischer](https://jgfleischer.com/). ⭐⭐⭐⭐
+   - I did not take their offering of COGS 118A, but the course designed by either of them is good for an introduction to machine learning.
+
+4. MATH 173A/B with Prof. [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/). ⭐⭐⭐⭐
+   - I did not take Prof. Saab's offering of the MATH 173 sequence. However, he designed this great sequence, and he is really good at explaining mathematical concepts based on my experience of working with him on a project.
 
 
 
