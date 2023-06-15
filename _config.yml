@@ -118,12 +118,13 @@ author:
   youtube          :
 
 footer:
-  github           : "weiyueli7"
-  google_plus      :
-  keybase          :
-  lastfm           :
-  linkedin         : "weiyue-larry-li"
-  instagram        : "larryliweiyue"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/weiyueli7"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/weiyue-larry-li/"
 
 # Reading Files
 include:
