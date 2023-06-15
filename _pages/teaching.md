@@ -6,8 +6,8 @@ comments: true
 author_profile: true
 # classes: wide
 toc: true
-toc_label: "Teaching by Department"
-toc_icon: "book"
+toc_label: "By Departments"
+toc_icon: "chalkboard-teacher"
 toc_sticky: true
 ---
 

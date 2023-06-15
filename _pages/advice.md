@@ -7,7 +7,7 @@ author_profile: true
 # classes: wide
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "book"
+toc_icon: "unlock-alt"
 toc_sticky: true
 ---
 
@@ -38,4 +38,4 @@ I have been assisting fellow students with schedule planning since my freshman y
 
 #### Becoming an IA 
 
-Since my freshman year, I have been serving as an Instructional Assistant at UCSD, and have provided numerous suggestions and tips to fellow students regarding the application process for various positions in different departments. If you are interested in becoming a Math TA, DSC Tutor, or Econ UIA, I would be more than happy to offer guidance and advice. Please do not hesitate to contact me.
+Since my freshman year, I have been serving as an Instructional Assistant at UCSD, and have provided numerous suggestions and tips to fellow students regarding the application process for various positions in different departments. If you are interested in becoming a Math TA, CSE Tutor, DSC Tutor, or Econ UIA, I would be more than happy to offer guidance and advice. Please do not hesitate to contact me.

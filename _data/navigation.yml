@@ -12,12 +12,12 @@ main:
   #   url:  /experience/
 
 
-docs:
-  - title: Teaching by Department
-    children:
-      - title: "Data Science"
-        url: /teaching/#data-science
-      - title: "Mathematics"
-        url: /teaching/#mathematics
-      - title: "Economics"
-        url: /teaching/#economics
+# docs:
+#   - title: Teaching by Department
+#     children:
+#       - title: "Data Science"
+#         url: /teaching/#data-science
+#       - title: "Mathematics"
+#         url: /teaching/#mathematics
+#       - title: "Economics"
+#         url: /teaching/#economics
