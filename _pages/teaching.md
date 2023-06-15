@@ -63,7 +63,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD DSC 80  SP23, WI23</em>
       <br>
       
-      <a href="../assets/pdfs/dsc40a_eval.pdf">evaluation</a> / <a href="https://dsc-courses.github.io/dsc80-2023-wi/">website</a>
+      <a href="../assets/pdfs/dsc80_eval.pdf">evaluation</a> / <a href="https://dsc-courses.github.io/dsc80-2023-wi/">website</a>
       
       <p></p>
       <p>Students master the data science life-cycle and learn many of the fundamental principles and techniques of data science spanning algorithms, statistics, machine learning, visualization, and data systems.</p>
