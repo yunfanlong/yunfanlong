@@ -3,7 +3,7 @@ layout: single
 title: "Advice"
 permalink: /advice/
 comments: false
-author_profile: true
+author_profile: false
 # classes: wide
 toc: true
 toc_label: "Table of Contents"

@@ -28,7 +28,8 @@ My calendar is embeded below. All events are tentative and subject to change.
 
 ### To friends at UCSD🔱:
 
-Growing up at UCSD, I have met many upperclassmen who have helped me become who I am today. If you are an undergraduate student at UCSD looking for advice on course recommendations, scheduling, TA/UIA/Tutor applications, and more, please see [here](/advice).
+Growing up at UCSD, I have met many upperclassmen who have helped me become who I am today. If you are an undergraduate student at UCSD looking for **advice**, please see [here](/advice). If you are looking for some of the **useful resources** at UCSD, please see [here](/resources).
+
 
 
 <!-- <div class="repo p-2 text-center">

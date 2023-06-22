@@ -36,7 +36,7 @@ Below are full lists and details of the classes in which I served as an undergra
     <em>UCSD CSE 150A S123</em>
     <br>
 
-    <!-- <a href="../assets/pdfs/econ120b_eval.pdf">evaluation</a> /
+    <!-- <a href="../assets/pdfs/evaluations/econ120b_eval.pdf">evaluation</a> /
 
     <a href="https://catalog.ucsd.edu/courses/ECON.html#econ120b">website</a> -->
     
@@ -63,7 +63,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD DSC 80  SP23, WI23</em>
       <br>
       
-      <a href="../assets/pdfs/dsc80_eval.pdf">evaluation</a> / <a href="https://dsc-courses.github.io/dsc80-2023-wi/">website</a>
+      <a href="../assets/pdfs/evaluations/dsc80_eval.pdf">evaluation</a> / <a href="https://dsc-courses.github.io/dsc80-2023-wi/">website</a>
       
       <p></p>
       <p>Students master the data science life-cycle and learn many of the fundamental principles and techniques of data science spanning algorithms, statistics, machine learning, visualization, and data systems.</p>
@@ -84,7 +84,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <br>
       
       
-      <a href="../assets/pdfs/dsc40b_eval.pdf">evaluation</a> / <a href="https://dsc40b.com">website</a>
+      <a href="../assets/pdfs/evaluations/dsc40b_eval.pdf">evaluation</a> / <a href="https://dsc40b.com">website</a>
       
       <p></p>
       <p>DSC 40B, the second course in the sequence, introduces fundamental topics in combinatorics, graph theory, probability, and continuous and discrete algorithms with applications to data analysis.</p>
@@ -104,7 +104,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD DSC 40A  FA22</em>
       <br>
       
-      <a href="../assets/pdfs/dsc40a_eval.pdf">evaluation</a> /
+      <a href="../assets/pdfs/evaluations/dsc40a_eval.pdf">evaluation</a> /
       
       <a href="https://dsc-courses.github.io/dsc40a-2022-fa/">website</a>
       
@@ -177,7 +177,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD MATH 109  SP22*</em>
       <br>
       
-      <a href="../assets/pdfs/math109_eval.pdf">evaluation</a> /
+      <a href="../assets/pdfs/evaluations/math109_eval.pdf">evaluation</a> /
       
       
       <a href="https://catalog.ucsd.edu/courses/MATH.html#math109">website</a>
@@ -200,7 +200,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD MATH 20D  FA22*, SP21*</em>
       <br>
       
-      <a href="../assets/pdfs/math20d_eval.pdf">evaluation</a> /
+      <a href="../assets/pdfs/evaluations/math20d_eval.pdf">evaluation</a> /
       
       
       <a href="https://catalog.ucsd.edu/courses/MATH.html#math20d">website</a>
@@ -244,7 +244,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <em>UCSD MATH 20A WI22, FA21</em>
       <br>
       
-      <a href="../assets/pdfs/math20a_eval.pdf">evaluation</a> /
+      <a href="../assets/pdfs/evaluations/math20a_eval.pdf">evaluation</a> /
       
       
       <a href="https://catalog.ucsd.edu/courses/MATH.html#math20a">website</a>
@@ -275,7 +275,7 @@ Below are full lists and details of the classes in which I served as an undergra
     <em>UCSD ECON 120B WI23, FA22</em>
     <br>
 
-    <a href="../assets/pdfs/econ120b_eval.pdf">evaluation</a> /
+    <a href="../assets/pdfs/evaluations/econ120b_eval.pdf">evaluation</a> /
 
     <a href="https://catalog.ucsd.edu/courses/ECON.html#econ120b">website</a>
     
