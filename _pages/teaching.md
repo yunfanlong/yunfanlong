@@ -84,7 +84,7 @@ Below are full lists and details of the classes in which I served as an undergra
       <br>
       
       
-      <a href="https://dsc40b.com">website</a>
+      <a href="../assets/pdfs/dsc40b_eval.pdf">evaluation</a> / <a href="https://dsc40b.com">website</a>
       
       <p></p>
       <p>DSC 40B, the second course in the sequence, introduces fundamental topics in combinatorics, graph theory, probability, and continuous and discrete algorithms with applications to data analysis.</p>
