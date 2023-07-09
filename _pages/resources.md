@@ -13,6 +13,7 @@ toc_sticky: true
 
 Searching through past course websites, syllabi, cheatsheets, and other sources, such as scripts, to monitor seats on WebReg and enroll in classes was consuming an uncountable amount of my time. This page serves as a central location to store all of my resources at UCSD, benefiting everyone who is looking for the same information.
 
+Also see [my advice to ucsd students](../advice).
 
 ## Websites
 

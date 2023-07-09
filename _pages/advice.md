@@ -11,6 +11,8 @@ toc_icon: "unlock-alt"
 toc_sticky: true
 ---
 
+Also see [my ucsd resources](../resources).
+
 #### Course Recommendation
 
 1. CSE 151B/251B with Prof. [Gary Cottrell](https://cseweb.ucsd.edu/~gary/). ⭐⭐⭐⭐⭐

@@ -285,5 +285,3 @@ Below are full lists and details of the classes in which I served as an undergra
     </td>
 </tr>
 </table>
-
-  
