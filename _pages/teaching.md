@@ -31,14 +31,14 @@ Below are full lists and details of the classes in which I served as an undergra
     <td style="padding:2.5%;width:75%;vertical-align:middle">
     <h3>AI: Probabilistic Models</h3>
     <br>
-    Prof. Mary Smart
+    Prof. Mary Anne Smart
     <br>
     <em>UCSD CSE 150A S123</em>
     <br>
 
-    <!-- <a href="../assets/pdfs/evaluations/econ120b_eval.pdf">evaluation</a> /
+    <!-- <a href="../assets/pdfs/evaluations/econ120b_eval.pdf">evaluation</a> / -->
 
-    <a href="https://catalog.ucsd.edu/courses/ECON.html#econ120b">website</a> -->
+    <a href="https://msmart14.github.io/cse-150a-summer23/">website</a>
     
     <p></p>
     <p>Introduction to probabilistic models at the heart of modern artificial intelligence. Specific topics to be covered include probabilistic methods for reasoning and decision-making under uncertainty; inference and learning in Bayesian networks; prediction and planning in Markov decision processes; applications to intelligent systems, speech and natural language processing, information retrieval, and robotics.</p>
