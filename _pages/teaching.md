@@ -36,9 +36,7 @@ Below are full lists and details of the classes in which I served as an undergra
     <em>UCSD CSE 150A S123</em>
     <br>
 
-    <a href="../assets/pdfs/evaluations/cse150a_eval.pdf">evaluation</a> /
-
-    <a href="https://msmart14.github.io/cse-150a-summer23/">website</a>
+    <a href="../assets/pdfs/evaluations/cse150a_eval.pdf">evaluation</a> / <a href="https://msmart14.github.io/cse-150a-summer23/">website</a>
     
     <p></p>
     <p>Introduction to probabilistic models at the heart of modern artificial intelligence. Specific topics to be covered include probabilistic methods for reasoning and decision-making under uncertainty; inference and learning in Bayesian networks; prediction and planning in Markov decision processes; applications to intelligent systems, speech and natural language processing, information retrieval, and robotics.</p>
