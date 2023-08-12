@@ -19,19 +19,33 @@ This page is still under construction. More unpublished/ongoing content will be 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/bliva.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/projects/cornet.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions</h3>
-      <a href="https://gordonhu608.github.io/">Wenbo Hu*</a>, <a href="https://yfxu.com/">Yifan Xu*</a>, <a href="https://jerryli1019.github.io">Yi Li</a>, <strong><a href="https://weiyueli7.github.io/">Weiyue Li</a></strong>, <a href="https://zeyuan-chen.com/">Zeyuan Chen</a>, <a href="https://pages.ucsd.edu/~ztu/">Zhuowen Tu</a>
+      <h3>LPnet: Log Polar Transformed Cornet with Visual-Saliency LSTM Architechture for Scene Verification</h3>
+      <strong>Yunfan Long</strong>
       <br>
-      <i>Under Review AAAI 2024</i>
+      <a href="https://docs.google.com/presentation/d/19ZmARbVpGQAUvkekOrDVXUlb_zu-uErg/edit?usp=sharing&ouid=107659118907272604893&rtpof=true&sd=true">slides</a> / <a href="https://github.com/yunfanlong/GURU-Research">code</a>
+      <p>In this research prject, I develop and fine-tune LPnet, consisting of a log-polar-transformation-enhanced CORnet encoder and a SIMCLR decoder, for scene verification tasks in different visual angles. I implement DeepgazeII, IKN, and GBVS visual saliency algorithm to simulate human fixation pattern and investigate their performance difference. I also integrate an LSTM architecture in the final layer to incorporate saliency information from previous fixations. Evaluation is performed on the faces dataset, Imagenet dogs dataset, and Imagenet100 dataset with multiple rotations and scales to better understand how model performance is impacted by transformations to inputs at test time. Result shows that that LPnet outperforms euclidean CNN by 8% on average and demonstrates much better generalization at multiple rotations and scales, due to the partial invariance to scale and rotation granted by the log polar transform.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/nlp.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>CGEN: Semi-Supervised NLP Powered Cohort Generation</h3>
+      <strong>Yunfan Long</strong>
       <br>
-      <a href="https://gordonhu608.github.io/bliva/">website</a> / <a href="https://arxiv.org/abs/2308.09936">arxiv</a> / <a href="https://github.com/mlpc-ucsd/BLIVA">code</a>
-      <p>We introduce BLIVA, an augmented version of InstructBLIP with Visual Assistant. BLIVA incorporates the query embeddings from InstructBLIP and also directly projects encoded patch embeddings into the LLM, a technique inspired by LLaVA. This approach ensures that the model captures intricate details potentially missed during the query decoding process. Empirical evidence demonstrates that our model, BLIVA, significantly enhances performance in processing text-rich VQA benchmarks (up to 17.76% in OCR-VQA benchmark) and in undertaking typical VQA benchmarks (up to 7.9% in Visual Spatial Reasoning benchmark), comparing to our baseline InstructBLIP. BLIVA demonstrates significant capability in decoding real-world images, irrespective of text presence.</p>
+      <a href="https://github.com/yunfanlong/NLP-Cohort-Generation">code</a>
+      <p>At UCSD Health, I explore the potential of Natural Language Processing (NLP) in streamlining the process of cohort generation from unstructured EHR data. I design an extraction pipeline using state-of-the-art unsupervised NLP models to automatically identify and categorize International Classification of Diseases (ICD) codes, drug names, and other relevant medical concepts. Automate data extraction, reduce manual curation efforts by 70%, and improve the efficiency of cohort generation processes by 50%.Achieve 82% accuracy in extracting medical concepts from diverse EHR sources.
+
+      </p>
     </td>
   </tr>
 </table>
+
 
 ## Selective Projects
 
@@ -40,50 +54,41 @@ This page is still under construction. More unpublished/ongoing content will be 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/cdcgans.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/projects/dl4jazz.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Generative Vision: Image Synthesis with Conditional DCGANs</h3>
-      <strong>Weiyue Li</strong>, Charles Ye
+      <h3>DL4Jazz: Exploration and Optimization of Bidirectional and VAE LSTM Networks for Jazz Music Generation</h3>
+      <strong>Yunfan Long</strong>
       <br>
-      <a href="https://github.com/weiyueli7/cGANs-cDCGANs/blob/main/doc/report.pdf">report</a> / <a href="https://github.com/weiyueli7/cGANs-cDCGANs">code</a>
-      <p>Our project proposes two architectures with early or late concatenations to improve the performance of the original cGANs paper's architecture. The project involves training cDCGANs and cGANs on large-scale labeled datasets, where the models are conditioned on auxiliary information such as class labels. We also employ various metrics to evaluate the performance, and the results show that our cDCGANs model validates its effectiveness in generating high-quality and realistic images.</p>
+      <a href="https://soundcloud.com/dl4jazz">soundcloud</a> / <a href="https://github.com/yunfanlong/DL4Jazz">code</a>
+      <p>As a jazz enthusiast and a jazz band drummer, this is really my favorite project. This project is dedicated to go beyond vanilla LSTM to explore variants of LSTM-based jazz music generation models. I adapted the DeepJazz framework, including its preprocessing steps, grammar, and generation pipeline, along with specific input/output dimensions and selected hyperparameters. This approach facilitates a clear and direct comparison among diverse models. DL4Jazz utilized bi-LSTM and vae-LSTM models to learn and generate jazz. Just like its predecessor, deepjazz, DL4Jazz learns from an array of musical inputs to compose original jazz pieces.</p>
     </td>
   </tr>
-  <!-- <tr>
+
+   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/dcgans.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/projects/bert.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>DCGANs on Image Classification Task</h3>
-      <strong>Weiyue Li</strong>, Yi Li
+      <h3>Amazon Massive Intent Classification with Bert and SimCLR/SupContrast</h3>
+      <strong>Yunfan Long</strong>, Dongze Li, Xiaoyan He
       <br>
-      <a href="https://github.com/weiyueli7/DCGANs/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/DCGANs">code</a>
-      <p>Our project aims to revolutionize image synthesis and classification by combining Deep Convolutional Generative Adversarial Networks (DCGANs) with Convolutional Neural Networks (CNNs). We seek to demonstrate the potential of DCGAN techniques in producing highly realistic images and achieving strong performance in image classification by utilizing these synthetic images during training.</p>
+      <a href="https://github.com/cse151bfa22">report</a> / <a href="https://github.com/cse151bfa22/cse-151b-pa4-hxy">code</a>
+      <p>In this study, we explore the use of a pre-trained BERT model for categorizing user intent, using the Amazon Massive Intent dataset with 60 intent categories. We start with a pre-trained BERT model as an encoder, adding a classifier layer for final predictions. This baseline achieves a test accuracy of 88.9711%. By reducing the batch size to 16 and incorporating warm-up and Layer-wise Learning Rate Decay (LLRD), we enhance the model's performance, reaching a test accuracy of 90.0471%. We experiment with contrastive loss functions, specifically SimCLR and SupContrast. SimCLR, an unsupervised method, yields a lower test accuracy of 61.829%, as expected. SupContrast, closer to our baseline approach, achieves a comparable test accuracy of 88.1977%.
+</p>
     </td>
-  </tr> -->
+  </tr>
+
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
       <img src="../assets/images/projects/image-cap.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Automatic Image Annotation</h3>
-      Yi Li, <strong>Weiyue Li</strong>, Linghang Kong, Yibo Wei, Shuangmu Wu
+      <h3>Automatic Image Captioning</h3>
+      <strong>Yunfan Long</strong>, Dongze Li, Xiaoyan He
       <br>
-      <a href="https://github.com/weiyueli7/Automatic-Image-Annotation/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/Automatic-Image-Annotation">code</a>
-      <p>In this project, we trained an algorithm to caption input images. This required the algorithm to identify objects in the images and match them to a corpus of text. We used PyTorch to implement multiple Recurrent Neural Network (RNN) models, including LSTM, Vanilla RNN, and a custom model (Architecture 2), to generate captions for the images in our dataset, specifically the well-known COCO Image Captioning Task.</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/recommender.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-    </td>
-    <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Recipe Recommender System</h3>
-      <strong>Weiyue Li</strong>, Yi Li, Xiaoyue Wang, Ruoyu Hou
-      <br>
-      <a href="https://github.com/weiyueli7/Recipe-Recommender/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/Recipe-Recommender">code</a>
-      <p>In this project, we first performed exploratory data analysis on datasets from food.com. We then implemented various types of recommendation system models to recommend recipes to users, predict ratings based on sentiment analysis, and predict recipe categories.</p>
+      <a href="https://github.com/cse151bfa22">report</a> / <a href="https://github.com/cse151bfa22/cse-151b-pa3-jdg">code</a>
+      <p>In this study, we developed image captioning models for the COCO Image Captioning Task, utilizing a subset (1/5) of the dataset with five captions per image. We employed two architectures. 1. Custom Model: A combination of a custom CNN encoder and an LSTM decoder. After tuning the hidden and embedding sizes, it achieved a BLEU-1 score of 48.502, BLEU-4 score of 1.986, and a cross-entropy test loss of 1.508. 2.Pretrained Model: An integration of a pretrained Resnet-50 encoder and an LSTM decoder. Optimizing the optimizer and learning rate, this model reached a BLEU-1 score of 50.267, BLEU-4 score of 1.542, and a cross-entropy test loss of 2.308. Both models were evaluated using BLEU-1, BLEU-4 scores, and cross-entropy loss, with the second model slightly outperforming the first in BLEU-1 score.</p>
     </td>
   </tr>
 
@@ -92,132 +97,86 @@ This page is still under construction. More unpublished/ongoing content will be 
       <img src="../assets/images/projects/mlp.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Optimization and Evaluation of Multi-layer Neural Networks: Exploring Regularization, Learning Rates, and Topologies</h3>
-      <strong>Weiyue Li</strong>, Yi Li, Linghang Kong
+      <h3>From-Scratch Implementation, Optimization, and Evaluation of Multi-layer Neural Networks</h3>
+      <strong>Yunfan Long</strong>, Dongze Li, Xiaoyan He
       <br>
-      <a href="https://github.com/weiyueli7/MLP/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/MLP">code</a>
-      <p>We implemented a multi-layer neural network equipped with forward and backward propagation, various regularization techniques, and momentum-based optimization. Our objective was to classify Japanese Hiragana handwritten characters from the KMNIST dataset, employing softmax as the output layer.</p>
+      <a href="https://github.com/cse151bfa22">report</a> / <a href="https://github.com/cse151bfa22/cse-151b-pa3-jdg">code</a>
+      <p>In this study, we implemented the multi-layer neural network from scratch to classify images from different classes in CIFAR-10 dataset. We used softmax function as the activation function for output layer. In our original model, we used one hidden layer with 128 hidden units, and chose tanh function as the activation for hidden layer with learning rate as 0.00001, batch size as 128, momentum gamma as 0.9 with no regularization. We applied stochastic gradient descent in all parts of our experiment. With our original model, we reached the test accuracy of 47.36%. Then, in other parts of experiment, we tried L1 and L2 regularization, and also tried to use other activation function(ReLU & Sigmoid) for hidden units and change the number of hidden units and hidden layers. We achieved 50.77% as our highest test accuracy with ReLU activation for hidden units.</p>
     </td>
   </tr>
-
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/svd.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/projects/rec.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Image Classification in Practice: High Efficiency and Performance From Singular Value Decomposition</h3>
-      <strong>Weiyue Li</strong>
+      <h3>Cloth Recommender System</h3>
+      <strong>Yunfan Long</strong>, Muchan Li
       <br>
-      <a href="https://github.com/weiyueli7/Singular-Value-Decomposition-CV/blob/master/doc/report.pdf">report</a> / <a href="https://github.com/weiyueli7/Singular-Value-Decomposition-CV">code</a>
-      <p>We implemented Logistic Regression with Stochastic Gradient Descent to classify Japanese Hiragana hand writings from the KMNIST dataset. We then used Singular Value Decomposition to reduce the size of images for the goals of decreasing memory allocations and hopefully increasing the performance of the model. After applying Singular Value Decomposition, we were able to achieve 99% of testing accuracy on classifying お and ま with 40% less memory allocation on the original images as well as around 87% of testing accuracy on classifying す and ま with 40% less memory allocation on the original images.</p>
+      <a href=<a href="../assets/pdfs/cloth_recommend.pdf">report</a>
+      <p>In this project, we first performed exploratory data analysis on RentTheRunway datasets. We then implemented various types of recommendation system models to recommend cloths to users, predict ratings based on sentiment analysis, and predict cloth categories.</p>
     </td>
   </tr>
-
-
 </table>
 
-
-### Data Analysis
-
+### Database Implementation
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/covid.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/projects/concurrency-control.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Taming COVID-19 Statistics to Reflect Happiness Score Metrics</h3>
-      Zirui Wang, <strong>Weiyue Li</strong>, Luning Yang, Yuru Zhou
+      <h3>Database Concurrency Controler</h3>
+      <strong>Yunfan Long</strong>
       <br>
-      <a href="https://zwcolin.github.io/COVID-19-Happiness-Score/FinalProjectGroup065-Fa21.html">report</a> / <a href="https://github.com/zwcolin/COVID-19-Happiness-Score">code</a>
-      <p>In this project, we make use of the vaccination/death data by country, and explore the relationship between the set of {nation-wide onset date of vaccination, average new vaccination/death rate across different time spans}, and various metrics of happiness score in 2021. In particular, we are trying to figure out to what extent our independent varibles, namely all COVID-19 related data, are correlated to these metrics (i.e. social support, healthy life expectancy, perception of corruption, and generosity) of happiness scores.</p>
+      <a href="https://github.com/yunfanlong/Bustub-Concurrency-Control/blob/main/report.md">report</a> / <a href="https://github.com/yunfanlong/Bustub-Concurrency-Control/tree/main">code</a>
+      <p>In this project, I implement the lock manager in bustub, which is responsible for tracking tuple-level locks used in the database so that the database supports concurrent query plan execution. A two-phase locking strategy is used to implement specific tuple-level locks. The specific locking and unlocking strategy should be determined by the isolation level of the transaction. When a transaction needs to read or write a tuple, it needs to try to obtain the read lock or write lock corresponding to the tuple according to the isolation level, and release it at the appropriate moment.</p>
     </td>
   </tr>
-</table>
 
 
-### Data Visualization
-
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/nfl-players.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/projects/qexec.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>NFL Players Visualization</h3>
-      <strong>Weiyue Li</strong>
+      <h3>Database Query Plan Executor</h3>
+      <strong>Yunfan Long</strong>
       <br>
-      <a href="https://weiyueli7.github.io/NFL-Players-Viz/">report</a> / <a href="https://github.com/weiyueli7/NFL-Players-Viz">code</a>
-      <p>In this project, I have developed an interactive dashboard aimed at providing high school varsity football players with a more comprehensive understanding of the critical considerations involved in becoming NFL players. In addition to drawing conclusions from past data, I have also made data-driven suggestions for young players. The primary objective of this project was to practice and enhance my skills in JavaScript, D3.js, and HTML.</p>
+      <a href="https://github.com/yunfanlong/Bustub-Query-Plan-Execution/blob/main/src/report.md">report</a> / <a href="https://github.com/yunfanlong/Bustub-Query-Plan-Execution/tree/main">code</a>
+      <p>In relational databases, SQL statements are transformed into logical query plans, and after query optimization, they are converted into physical query plans. The system completes the corresponding statement functions by executing these physical query plans. In this experiment, I implement the physical query plan execution functions for bustub, including sequential scan, insertion, deletion, update, join, aggregation, as well as DISTINCT and LIMIT.</p>
     </td>
   </tr>
-</table>
 
 
-### Econometrics
+ <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/btree.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Database BTree Index</h3>
+      <strong>Yunfan Long</strong>, Muchan Li
+      <br>
+      <a href="https://github.com/yunfanlong/BadgerDB-B-Tree-Index">code</a>
+      <p>In this programming project, we implement a B+Tree index in our database system. A B+Tree is a balanced search tree in which the internal pages direct the search and leaf pages contain the actual data entries. The index provides fast data retrieval without needing to search every row in a database table, enabling rapid random lookups and efficient scans of ordered records. Our implementation support thread-safe search, insertion, deletion (including splitting and merging nodes), and an iterator to support in-order leaf scans.</p>
+    </td>
+  </tr>
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/wage-gap.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/projects/bufmgr.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Occupation in Wage Gap Between Sex</h3>
-      Jiahui Cai, <strong>Weiyue Li</strong>
+      <h3>Database Buffer Management System</h3>
+      <strong>Yunfan Long</strong>
       <br>
-      <a href="https://github.com/weiyueli7/Wage-Gap-Analysis/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/Wage-Gap-Analysis">code</a>
-      <p>In this project, we perform a regression analysis to the IPUMS CPS data. In particular, we divide occupations into male-dominated, female-dominated, and equal-dominated and perform a regression analysis to aim for drawing a causal inference of occupation on the wage gap between sex during the COVID and post-COVID era.</p>
+      <a href="https://github.com/yunfanlong/BadgerDB-Buffer-Manager">code</a>
+      <p>In this project, I build a disk-oriented storage manager for the Badger DBMS. I implement Extendible Hash Table, LRU-K Replacement Policy, and Buffer Pool Manager Instance. Such a storage manager assumes that the primary storage location of the database is on disk. The project is to implement a buffer pool in my storage manager. The buffer pool is responsible for moving physical pages back and forth from main memory to disk. It allows a DBMS to support databases that are larger than the amount of memory that is available to the system. The buffer pool's operations are transparent to other parts in the system. For example, the system asks the buffer pool for a page using its unique identifier (page_id_t) and it does not know whether that page is already in memory or whether the system has to go retrieve it from disk.</p>
     </td>
   </tr>
+
 </table>
-
-
-
-
 
 ### Others
-
-This is a [website](https://sites.google.com/ucsd.edu/weiyue-li-first-year-japanese/home) that contains works I have done for the 3-quarter sequence of first-year Japanese courses I have taken in my freshman year of college. In case you are interested in taking the sequence, here are the topics you will work on.
-
-This [page](/teaching_portfolio/) captures all of my work from EDS 124BR (Teach Computational Thinking). I think this course has helped me to become better at my job as a teaching assistant.
-
-
-
-
-
-
-
-<!-- ### Selected Projects
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
-#### Image Captioning
-
-* Researched different hyperparameters on Long-Short-Term-Memory, Vanilla, and custom Recurrent Neural Networks on the COCO dataset to optimize image captioning.
-* Achieved 66.7% BLEU-1 score and 7.69% BLEU-4 score on the testing dataset.
-
-#### Image Classification
-
-* Optimized Convolutional Neural Network on custom and pre-trained models to classify the Food101 dataset. Achieved 78% testing accuracy to classify 20 different classes of food images.
-* Used regularization and momentum to optimize classifying handwritten Japanese Hiragana characters (KMNIST dataset) on back-propagation, logistic regression, and softmax regression. Achieved 87.25% testing accuracy on a multi-layer neural network with forward and backward propagation on 10 different classes; 98% testing accuracy on classifying two classes via logistic regression, and 70% testing accuracy on classifying 10 classes via softmax regression.
-
-#### Taming COVID-19 Statistics to Reflect Happiness Score Metrics
-
-* For the goal of promoting Covid-19 vaccinations to antivaccinists, researched how the onset of vaccination, the vaccination rates, and the death rate in a country are related to the happiness score of that country.
-* Collected datasets on Covid-19 vaccination records, happiness scores by country, and population reports. Designed metrics and performed data cleaning and Exploratory Data Analysis to find meaningful patterns. Built statistical models and machine learning pipelines to further analyze the problem.
-* Detected trends that countries have earlier access to Covid-19 vaccines and were vaccinating faster have higher happiness scores.
-
-
-#### Party Affiliation of Congressmen by their Stock Trades
-* Cleaned the dataset and imputed missing values with different statistical techniques. Performed Exploratory Data Analysis, Hypothesis tests, and Permutation tests to detect Congressmen's stock preferences on companies and industries from both parties.
-* Extracted useful features from the dataset and built binary classification models to predict the party affiliation of Congressmen based on the information of their stock trades. Achieved 87.32% accuracy in determining the party affiliation after fine-tuning.
-
-
-#### Crime Index and Wealth Analysis
-
-* Collected and cleaned data of neighborhoods around San Diego from ArcGIS, and performed exploratory data analysis on average wealth in the communities and their corresponding crime indexes.
-* Built data visualization and performed A\|B testings to better explain our variables, built machine learning pipelines for predictive analysis, and applied geospatial analysis to support our findings that areas with higher average household income are generally more robust to crimes. -->
-
-

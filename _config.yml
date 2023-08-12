@@ -11,13 +11,13 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
-title                    : "Weiyue Li"
+title                    : "Yunfan Long"
 title_separator          : "-"
-name                     : "Weiyue Li"
+name                     : "Yunfan Long"
 description              : "Personal website"
-url                      : "https://weiyueli7.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yunfanlong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weiyueli7/weiyueli7.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "yunfanlong/yunfanlong.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/favicon/android-chrome-192x192.png"
 # breadcrumbs            : false # true, false (default)
@@ -88,11 +88,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weiyue(Larry) Li"
-  avatar           : "/assets/images/weiyue-li.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Yunfan(Justin) Long"
+  avatar           : "/assets/images/yunfan-long.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Undergraduate student at UCSD"
   location         : "San Diego, CA"
-  email            : "wel019@ucsd.edu"
+  email            : "yulong@ucsd.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,11 +100,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiyueli7"
+  github           : "yunfanlong"
   google_plus      :
   keybase          :
   lastfm           :
-  linkedin         : "weiyue-larry-li"
+  linkedin         : "justin-long-05b940239"
   # instagram        : "larryliweiyue"
   pinterest        :
   soundcloud       :
@@ -116,16 +116,15 @@ author:
   weibo            :
   xing             :
   youtube          :
-  # googlescholar    : "https://scholar.google.com/citations?user=-ZhPymUAAAAJ&hl=en"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/weiyueli7"
+      url: "https://github.com/yunfanlong"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/weiyue-larry-li/"
+      url: "https://www.linkedin.com/in/justin-long-05b940239/"
 
 # Reading Files
 include:
@@ -203,6 +202,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-include-cache
   - jemoji
 
 # mimic GitHub Pages with --safe
@@ -211,6 +211,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-include-cache
   - jemoji
 
 
