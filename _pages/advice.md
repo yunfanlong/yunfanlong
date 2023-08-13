@@ -27,9 +27,6 @@ Also see [my ucsd resources](../resources).
 4. MATH 173A/B with Prof. [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/).
    - I did not take Prof. Saab's offering of the MATH 173 sequence. However, he designed this great sequence, and he is really good at explaining mathematical concepts based on my experience of working with him on a project.
 
-
-
-
 #### Schedule Planning
 
 If you are interested in taking classes together, please find my quarter-by-quarter plan below. Please note that this plan is tentative and subject to change. If you would like to discuss potential classes, group projects, or simply connect with me, please do not hesitate to reach out via email, Zoom, or by arranging a meeting at the Geisel Library.
@@ -38,6 +35,6 @@ I have been assisting fellow students with schedule planning since my freshman y
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRs36lkE0JajzcbJCFN3bU_qM6a1fDWlOQh566MBlElvln4P22Uah_3ThOb4U1FZT0w9ZErZuyhZ04z/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="1100" frameborder="0" scrolling="no"></iframe>
 
-#### Becoming an IA 
+#### Becoming an IA
 
 Since my freshman year, I have been serving as an Instructional Assistant at UCSD, and have provided numerous suggestions and tips to fellow students regarding the application process for various positions in different departments. If you are interested in becoming a Math TA, CSE Tutor, DSC Tutor, or Econ UIA, I would be more than happy to offer guidance and advice. Please do not hesitate to contact me.
