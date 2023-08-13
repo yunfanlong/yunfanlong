@@ -26,11 +26,6 @@ This is a [GitHub repo](https://github.com/ewang2002/webweg) that allows you to 
 This is the [IA System](https://academicaffairs.ucsd.edu/Modules/ASES/Default.aspx), where you can find open positions for academic student employee (TA/Tutor) jobs, your past evaluations, and information on your past assignments. This link has never been connected to any of the UCSD pages I have visited.
 
 
-
-
-
-
-
 ## Cheatsheets
 
 I am not particularly good at creating cheatsheets as I tend to be lazy. However, I have friends who are experts in this area.
@@ -56,12 +51,4 @@ Available Soon.
 | DSC Courses | All Available      | [link](dsc-courses.github.io) |
 | DSC Courses | All Available      | [link](dsc-courses.github.io) |
 | DSC Courses | All Available      | [link](dsc-courses.github.io) | -->
-
-
-
-
-
-
-
-
 
