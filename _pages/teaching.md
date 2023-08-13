@@ -177,7 +177,33 @@ Below are full lists and details of the classes in which I served as an undergra
 
 </table>
 
+#### Economics
 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+
+<tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+    <img src="../assets/images/econ120b.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+    <h3>Econometrics (X2)</h3>
+    <br>
+    Prof. Gordon Dahl, Prof. Maria Candido
+    <br>
+    <em>UCSD ECON 120B WI23, FA22</em>
+    <br>
+
+    <a href="../assets/pdfs/evaluations/econ120b_eval.pdf">evaluation</a> /
+
+    <a href="https://catalog.ucsd.edu/courses/ECON.html#econ120b">website</a>
+    
+    <p></p>
+    <p>This course prepares students for empirical analysis in an academic or business setting. It covers the fundamentals of regression, including estimation and hypothesis testing in a univariate and multivariate framework. It presents ideas using the “potential outcomes” framework and makes the important distinction between prediction and causality. The course discusses reasons why estimators may be biased or inconsistent, and how both randomized experiments and natural experiments can be used to obtain causal estimates.</p>
+
+    </td>
+</tr>
+</table>
 
 #### Mathematics
   
@@ -277,30 +303,4 @@ Below are full lists and details of the classes in which I served as an undergra
 </table>
 
 
-#### Economics
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-
-
-<tr>
-    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-    <img src="../assets/images/econ120b.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
-    </td>
-    <td style="padding:2.5%;width:75%;vertical-align:middle">
-    <h3>Econometrics (X2)</h3>
-    <br>
-    Prof. Gordon Dahl, Prof. Maria Candido
-    <br>
-    <em>UCSD ECON 120B WI23, FA22</em>
-    <br>
-
-    <a href="../assets/pdfs/evaluations/econ120b_eval.pdf">evaluation</a> /
-
-    <a href="https://catalog.ucsd.edu/courses/ECON.html#econ120b">website</a>
-    
-    <p></p>
-    <p>This course prepares students for empirical analysis in an academic or business setting. It covers the fundamentals of regression, including estimation and hypothesis testing in a univariate and multivariate framework. It presents ideas using the “potential outcomes” framework and makes the important distinction between prediction and causality. The course discusses reasons why estimators may be biased or inconsistent, and how both randomized experiments and natural experiments can be used to obtain causal estimates.</p>
-
-    </td>
-</tr>
-</table>
