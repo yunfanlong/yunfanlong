@@ -154,6 +154,27 @@ Below are full lists and details of the classes in which I served as an undergra
     </td>
   </tr>
 
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/dsc10.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Principles of Data Science</h3>
+      <br>
+      Prof. Suraj Rampure
+      <br>
+      <em>UCSD DSC 10 FA23</em>
+      <br>
+      
+      
+      <a href="https://dsc10.com">website</a>
+      
+      <p></p>
+      <p>This first course in data science introduces students to data exploration, statistical inference, and prediction. It introduces the Python programming language as a tool for tabular data manipulation, visualization, and simulation. Through homework assignments and projects, students are given an opportunity to develop their analytical skills while working with real-world datasets from a variety of domains.</p>
+
+    </td>
+  </tr>
+
 </table>
 
 
