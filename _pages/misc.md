@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "MISC"
+# title: "MISC"
 permalink: /misc/
 comments: true
 author_profile: true
@@ -207,7 +207,7 @@ Recording the most interesting rate my professor reviews I have seen so far:
   <center><img src="../assets/images/rmp2.png" alt="review image" style="width:70%; height:auto; max-width:100%; max-height:600px" /></center>
 
 
-### A silly mistake 🤯
+<!-- ### A silly mistake 🤯
 
 I ended up breaking my cumulative 4.0 in my sophomore year just because of this problem 😅
 
@@ -225,4 +225,4 @@ What will happen if you call your 65-year-old track coach by his first name? (Th
 My friends taught me to play guitar during the pandemic. Here's a video of us in case I lose it.
 
 
-<center><iframe width="560" height="315" src="https://drive.google.com/file/d/1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP/preview" title="MePlayingGuitar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://drive.google.com/file/d/1e6YvbNCuiwKoiHH-r-j5vdalmtLzu0wP/preview" title="MePlayingGuitar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center> -->
