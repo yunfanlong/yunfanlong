@@ -9,7 +9,7 @@ classes: wide
 
 Hello! My name is **Weiyue Li (李威岳)**, and I am an incoming fourth-year undergraduate student at the University of California San Diego (UCSD), pursuing a triple major in Data Science (BS), Applied Mathematics (BS), and Economics (BA).
 
-**I am expected to graduate in March 2024 and I am actively seeking internship opportunities in summer 2024 in AI/ML or Data Analysis related fields. You can find a copy of my [resume here (coming soon)]()**.
+<!-- **I am expected to graduate in March 2024 and I am actively seeking internship opportunities in summer 2024 in AI/ML or Data Analysis related fields. You can find a copy of my [resume here (coming soon)]()**. -->
 
 My academic interests focus on machine learning and artificial intelligence (AI/ML), specifically on the practical aspects of domain generalization and transfer. My expertise in machine learning, deep learning, and data analysis has allowed me to make valuable contributions to multiple research and internship projects spanning industries such as healthcare, economics, semiconductors, and computer hardware.
 
