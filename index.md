@@ -19,11 +19,6 @@ Moreover, I am passionate about education. As an undergraduate teaching assistan
 
 ---
 
-### To friends at UCSD🔱
-
-Growing up at UCSD, I have met many upperclassmen who have helped me become who I am today. If you are an undergraduate student at UCSD looking for **advice and resources**, please see [here](/advice).
-
----
 
 ## Schedule📅
 
@@ -34,6 +29,11 @@ My calendar is embeded below. All events are tentative and subject to change.
 My calendar in China's time zone for me during this summer:
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FShanghai&mode=WEEK&src=d2VsMDE5QHVjc2QuZWR1&color=%23039BE5" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
+---
+
+### To friends at UCSD🔱
+
+Growing up at UCSD, I have met many upperclassmen who have helped me become who I am today. If you are an undergraduate student at UCSD looking for **advice and resources**, please see [here](/advice).
 
 
 
