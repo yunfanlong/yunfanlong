@@ -23,7 +23,7 @@ This page is still under construction. More content will be added soon!
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions</h3>
-      <a href="https://gordonhu608.github.io/">Wenbo Hu*</a>, <a href="https://yfxu.com/">Yifan Xu*</a>, <a href="https://jerryli1019.github.io/jerryliyi.github.io/">Yi Li</a>, <strong><a href="https://weiyueli7.github.io/">Weiyue Li</a></strong>, <a href="https://zeyuan-chen.com/">Zeyuan Chen</a>, <a href="https://pages.ucsd.edu/~ztu/">Zhuowen Tu</a>
+      <a href="https://gordonhu608.github.io/">Wenbo Hu*</a>, <a href="https://yfxu.com/">Yifan Xu*</a>, <a href="https://jerryli1019.github.io">Yi Li</a>, <strong><a href="https://weiyueli7.github.io/">Weiyue Li</a></strong>, <a href="https://zeyuan-chen.com/">Zeyuan Chen</a>, <a href="https://pages.ucsd.edu/~ztu/">Zhuowen Tu</a>
       <br>
       <i>Under Review AAAI 2024</i>
       <br>
