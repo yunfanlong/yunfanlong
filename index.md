@@ -7,15 +7,16 @@ classes: wide
 
 ## About Me💯
 
-Hello! My name is **Weiyue Li (李威岳)**, and I am an incoming fourth-year undergraduate student at the University of California San Diego (UCSD), pursuing a triple major in Data Science (BS), Applied Mathematics (BS), and Economics (BA).
+Hello! My name is **Weiyue Li (李威岳)**. I am an incoming fourth-year undergraduate student at the University of California San Diego (UCSD), pursuing triple majors in Data Science (BS), Applied Mathematics (BS), and Economics (BA).
+
+I primarily center my research around machine learning and artificial intelligence (AI/ML). I place particular emphasis on <u>large language models</u>, <u>computer vision</u>, and the <u>practical aspects of domain generalization and transfer</u> — especially at their intersections. Leveraging my expertise in machine learning, deep learning, and data analysis, I've made significant contributions to various research and internship projects in the healthcare industry.
+
+I'm interning at Professor [Zhuowen Tu](https://pages.ucsd.edu/~ztu/)'s Machine Learning, Perception, and Cognition Lab (mlPC) this summer, where I'm working on LLM-related projects under the mentorship of Dr. [Yifan Xu](https://yfxu.com/). Additionally, [Weitang Liu](https://sites.google.com/ucsd.edu/weitangliu/) mentors me on a project centered on sample-efficient algorithms in computer vision. I am also fortunate to receive guidance from Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/), Professor [Mingxiong Huang](https://www.ece.ucsd.edu/node/516), and Dr. [Ganz Chockalingam](https://pdel.ucsd.edu/people/research-affiliates/ganz-chockalingam.html) for other AI/ML application-based research projects. Prior to this, I had the privilege of working in Professor [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski)'s Computational Neurobiology Laboratory ([CNL](https://cnl.salk.edu/)) on an applied deep learning project, where Dr. [Margot Wagner](https://www.margotwagner.com/) was my mentor. Learn more at [Research](/research).
+
+Beyond research, I have a deep passion for education. As an undergraduate teaching assistant, I've supported 12 courses across the Computer Science and Engineering, Data Science, Economics, and Mathematics departments, aiding over 2500 students in their academic journeys. Collaborating with 16 faculty members, I've sought to elevate the course experiences for UCSD students. In my teaching endeavors, I am primarily mentored by Professor [Suraj Rampure](https://rampure.org/) and Professor [Marina Langlois](https://datascience.ucsd.edu/people/marina-langlois/). Discover more at [Teaching](/teaching).
+
 
 <!-- **I am expected to graduate in March 2024 and I am actively seeking internship opportunities in summer 2024 in AI/ML or Data Analysis related fields. You can find a copy of my [resume here (coming soon)]()**. -->
-
-My academic interests focus on machine learning and artificial intelligence (AI/ML), specifically on the practical aspects of domain generalization and transfer. My expertise in machine learning, deep learning, and data analysis has allowed me to make valuable contributions to multiple research and internship projects spanning industries such as healthcare, economics, semiconductors, and computer hardware.
-
-Currently, I am advised by Dr. [Yifan Xu](https://yfxu.com/) on a visual LLM project. I am also advised by [Weitang Liu](https://sites.google.com/ucsd.edu/weitangliu/) on a project about sample-efficient algorithms in computer vision. In addition, I am advised by Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/), Professor [Mingxiong Huang](https://www.ece.ucsd.edu/node/516), and Dr. [Ganz Chockalingam](https://pdel.ucsd.edu/people/research-affiliates/ganz-chockalingam.html) for other application-based research projects. Before that, I had the good fortune of working in Professor [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski)'s lab on an applied deep learning project advised by Dr. [Margot Wagner](https://www.margotwagner.com/).
-
-Moreover, I am passionate about education. As an undergraduate teaching assistant, I have assisted in more than 10 courses offered by the Computer Science and Engineering, Data Science, Mathematics, and Economics departments, helping over 2000 students. I have also worked with more than 10 teaching faculties to enhance the course experience for students at UCSD.
 
 ---
 
