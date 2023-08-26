@@ -99,6 +99,22 @@ This page is still under construction. More content will be added soon!
       <p>We implemented a multi-layer neural network equipped with forward and backward propagation, various regularization techniques, and momentum-based optimization. Our objective was to classify Japanese Hiragana handwritten characters from the KMNIST dataset, employing softmax as the output layer.</p>
     </td>
   </tr>
+
+
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/svd.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Image Classification in Practice: High Efficiency and Performance From Singular Value Decomposition</h3>
+      <strong>Weiyue Li</strong>
+      <br>
+      <a href="https://github.com/weiyueli7/Singular-Value-Decomposition-CV/blob/master/doc/report.pdf">report</a> / <a href="https://github.com/weiyueli7/Singular-Value-Decomposition-CV">code</a>
+      <p>We implemented Logistic Regression with Stochastic Gradient Descent to classify Japanese Hiragana hand writings from the KMNIST dataset. We then used Singular Value Decomposition to reduce the size of images for the goals of decreasing memory allocations and hopefully increasing the performance of the model. After applying Singular Value Decomposition, we were able to achieve 99% of testing accuracy on classifying お and ま with 40% less memory allocation on the original images as well as around 87% of testing accuracy on classifying す and ま with 40% less memory allocation on the original images.</p>
+    </td>
+  </tr>
+
+
 </table>
 
 
