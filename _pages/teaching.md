@@ -11,7 +11,13 @@ toc_icon: "chalkboard-teacher"
 toc_sticky: true
 ---
 
-Below are full lists and details of the classes in which I served as an undergraduate teaching assistant at UCSD. The names of the instructors are listed based on the time I worked with them. Any available instructor evaluations are also attached.
+Below is a comprehensive list detailing the classes for which I served as an undergraduate teaching assistant at UCSD. Instructors are listed in the order in which I worked with them. Where available, instructor evaluations are attached.
+
+My responsibilities:
+
+- Automated the grading process by developing test cases and grading systems in Python, Java, and Stata. Deployed the autograder using Docker on AWS EC2 instances, specifically through Gradescope.
+- Assisted over 2,500 students by conducting regular technical office hours, creating and grading assignments and exams, and overseeing the class forum and logistics.
+- Guided and mentored new staff, equipping them with the managerial and technical skills required to excel as course assistants.
 
 <!-- ### Teaching by Department
 {: .no_toc .text-delta }
