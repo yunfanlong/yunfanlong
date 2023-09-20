@@ -16,7 +16,7 @@ Below is a comprehensive list detailing the classes for which I served as an und
 My responsibilities:
 
 - Automated the grading process by developing test cases and grading systems in Python, Java, and Stata. Deployed the autograder using Docker on AWS EC2 instances, specifically through Gradescope.
-- Assisted over 2,500 students by conducting regular technical office hours, creating and grading assignments and exams, and overseeing the class forum and logistics.
+- Assisted over 3,000 students by conducting regular technical office hours, creating and grading assignments and exams, and overseeing the class forum and logistics.
 - Guided and mentored new staff, equipping them with the managerial and technical skills required to excel as course assistants.
 
 <!-- ### Teaching by Department
