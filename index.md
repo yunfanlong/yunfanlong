@@ -27,8 +27,8 @@ My calendar is embeded below. All events are tentative and subject to change.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=d2VsMDE5QHVjc2QuZWR1&color=%234285F4" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-My calendar in China's time zone for me during this summer:
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FShanghai&mode=WEEK&src=d2VsMDE5QHVjc2QuZWR1&color=%23039BE5" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<!-- My calendar in China's time zone for me during this summer:
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FShanghai&mode=WEEK&src=d2VsMDE5QHVjc2QuZWR1&color=%23039BE5" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe> -->
 
 ---
 
