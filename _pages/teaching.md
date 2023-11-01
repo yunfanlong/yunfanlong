@@ -103,7 +103,7 @@ My responsibilities:
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Theoretical Foundations of Data Science I</h3>
       <br>
-      Prof. Truong Son Hy
+      Prof. Truong Son Hy and Prof. Mahdi Soleymani
       <br>
       <em>UCSD DSC 40A  FA22</em>
       <br>
@@ -126,7 +126,7 @@ My responsibilities:
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Data Structures and Algorithms for Data Science </h3>
       <br>
-      Prof. Soohyun Liao
+      Prof. Soohyun Liao and Prof. Marina Langlois
       <br>
       <em>UCSD DSC 30  SP22</em>
       <br>
@@ -167,7 +167,7 @@ My responsibilities:
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Principles of Data Science</h3>
       <br>
-      Prof. Suraj Rampure
+      Prof. Suraj Rampure and Prof. Janine Tiefenbruck and Prof. Rod Albuyeh
       <br>
       <em>UCSD DSC 10 FA23</em>
       <br>
@@ -290,7 +290,7 @@ My responsibilities:
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Calculus for Science and Engineering (X2)</h3>
       <br>
-      Prof. Yucheng Tu, Prof. Yuming Zhang
+      Prof. Yucheng Tu, Prof. Yuming Zhang and Prof. Jacob Sterbenz
       <br>
       <em>UCSD MATH 20A WI22, FA21</em>
       <br>
