@@ -29,6 +29,25 @@ My responsibilities:
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
+<tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+    <img src="../assets/images/cse151a.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+    <h3> Introduction to Machine Learning</h3>
+    <br>
+    Prof. Edwin Solares
+    <br>
+    <em>UCSD CSE 151A WI24</em>
+    <br>
+
+    <!-- <a href="../assets/pdfs/evaluations/cse150a_eval.pdf">evaluation</a> / <a href="https://msmart14.github.io/cse-150a-summer23/">website</a> -->
+    
+    <p></p>
+    <p>Broad introduction to machine learning. The topics include some topics in supervised learning, such as k-nearest neighbor classifiers, decision trees, boosting, and perceptrons; and topics in unsupervised learning, such as k-means and hierarchical clustering. In addition to the actual algorithms, the course focuses on the principles behind the algorithms.</p>
+
+    </td>
+</tr>
 
 <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
